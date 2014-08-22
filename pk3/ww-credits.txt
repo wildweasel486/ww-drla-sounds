@@ -1,21 +1,88 @@
 Credits for sounds used in this pack and explanations for how I compiled them.
 
-DSSHOTGN - From one of Half-Life 2's grenade explosions and a stock sound effect. I intended to recreate the shotgun sound from STRAIN.wad in higher quality.
-DSPISTOL - Mixture of sounds from stock sources.
-DSCOMPIS - Mixture of HL2's pistol and Die Hard Trilogy's pistol. Quality sucks but whatever.
-DSDEAGLE - Stock sound; you might know it as Goldeneye's Cougar Magnum.
-DSSHOT1 - Same as DSSHOTGN without the pumping sound.
-DSSGPUMP - Stock sound.
-DSSHOTP2 - Same pumping sound as DSSHOTGN.
-DSUZIFIR - Alliance of Valiant Arms.
-DSUACRIF - ""
-DSCHAIN* - Combination of stock gunfire sound plus machinegun firing and mechanical noises from Doom 3.
-DSGLKOUT - Combination of reload sounds from System Shock 2 and Return to Castle Wolfenstein.
-DSGLKIN - ""
-DSGLKCK - Alliance of Valiant Arms.
-DSTACSHO - Killing Floor.
-DSDBLOAD - ???
-DSDBCLS - The Specialists.
-DSDBOPN - Quake 3 Arena.
-DSPLASMA - ???
-DSDSHTGN - 007: Nightfire (PC version); sorry about the low quality but I don't have the original rip anymore.
+Okay, time for a full-on credits audit.
+
+\sounds\
+dssecret.flac - Arkanoid.
+
+\sounds\BFG\ << nothing here yet
+
+\sounds\boots\
+dstekfs*.flac - Quake 3 Arena, TankJR's footsteps because the whirring mechanical noises were irritating.
+
+\sounds\explosives\
+dsrlaunc.flac - Half-Life 2's RPG.
+
+\sounds\other\ << nothing here yet
+
+\sounds\pistols\
+\combatpistol\
+dscompis.flac - Killing Floor, Thompson SMG single-fire mode.
+dshpcomp.flac - I...honestly forget. Probably also from Killing Floor but I forget which gun.
+\grammaton\
+dsgcbfir.flac - Soldier of Fortune 2, M1911A1 firing sound.
+dsgcbhit.flac - ?
+dsgcbin.flac - Soldier of Fortune?
+dsgcbmod.flac - Soldier of Fortune 2, M1911A1 raising sound.
+dsgcbout.flac - Alliance of Valiant Arms, M50 reload sound(?).
+\handcannon\
+dsdeagck.flac - ?
+dsdeagin.flac - ?
+dsdeagle.flac - Stock sound library, most recognizably Goldeneye 007's Cougar Magnum (but much higher quality)
+dsdeagot.flac - ?
+dshpdeag.flac - Killing Floor, Handcannon firing sound.
+\jackal\
+dsjackal.flac - Soldier of Fortune 2, Silver Talon firing sound.
+\pistol\
+dsglkck.flac - Freesound.org, unknown source (will dig up later)
+dsglkin.flac - Combination of reload sounds from System Shock 2 and Return to Castle Wolfenstein.
+dsglkout.flac - Combination of reload sounds from System Shock 2 and Return to Castle Wolfenstein.
+dshppist.flac - Killing Floor, 9mm Handgun firing sound.
+dspistol.flac - Stock sound source plus Resident Evil 4 pistol firing sound.
+
+\sounds\plasma\
+\blaster\
+dsblasth.flac - Mechwarrior 4, medium pulse laser (edited).
+dsblastr.flac - Mechwarrior 4, small pulse laser (edited).
+\laserrifle\
+dslaserf.flac - Starsiege: Tribes, laser rifle firing sound.
+\plasmapistol\
+dsplaspi.flac - Starsiege: Tribes, blaster pistol firing sound.
+\plasmarifle\
+dshpplas.flac - System Shock 2, laser pistol firing sound.
+dsplasma.flac - Quake 2, blaster firing sound.
+\plasmashotgun\
+dspshtgn.flac - System Shock 2, EMP firing sound.
+
+\sounds\rapidfire\
+\Battlerifle\
+brload*.flac - Freesound.org, courtesy of Yzhamua and NoiseCollector.
+dshpuacr.flac - Killing Floor, M4 single-fire sound.
+dsuacrif.flac - Alliance of Valiant Arms.
+\Chaingun\
+dschain*.flac - Combination of stock gunfire sound plus machinegun firing and mechanical noises from Doom 3.
+\Uzi\
+dsuzifir.flac - Alliance of Valiant Arms.
+dshpuzif.flac - ?
+dsuziout.flac - Killing Floor.
+dsuziin.flac - Killing Floor.
+
+\sounds\shotguns\
+\combatshotgun\
+dssgpump.flac - Soldier of Fortune.
+\doubleshotgun\
+dsdbcls.flac - The Specialists.
+dsdbload.flac - Resident Evil 4.
+dsdbopn.flac - Quake 3 Arena.
+dsdshtgn.flac - 007 Nightfire (PC version).
+\heavyshotgun\
+hshotf*.flac - Borderlands.
+shotpump.flac - Medal of Honor: Pacific Assault.
+\shotgun\
+dsshot1.flac - Half-Life 2, grenade explosion.
+dsshotgn.flac - From one of Half-Life 2's grenade explosions and a stock sound effect. I intended to recreate the shotgun sound from STRAIN.wad in higher quality.
+dsshotp2.flac - Stock sound effect (Goldeneye reload), slightly faster.
+\tacticalshotgun\
+dstacin.flac - Killing Floor, AA12 reload.
+dstacout.flac - ""
+dstacsho.flac - Killing Floor.
