@@ -1,0 +1,21 @@
+Credits for sounds used in this pack and explanations for how I compiled them.
+
+DSSHOTGN - From one of Half-Life 2's grenade explosions and a stock sound effect. I intended to recreate the shotgun sound from STRAIN.wad in higher quality.
+DSPISTOL - Mixture of sounds from stock sources.
+DSCOMPIS - Mixture of HL2's pistol and Die Hard Trilogy's pistol. Quality sucks but whatever.
+DSDEAGLE - Stock sound; you might know it as Goldeneye's Cougar Magnum.
+DSSHOT1 - Same as DSSHOTGN without the pumping sound.
+DSSGPUMP - Stock sound.
+DSSHOTP2 - Same pumping sound as DSSHOTGN.
+DSUZIFIR - Alliance of Valiant Arms.
+DSUACRIF - ""
+DSCHAIN* - Combination of stock gunfire sound plus machinegun firing and mechanical noises from Doom 3.
+DSGLKOUT - Combination of reload sounds from System Shock 2 and Return to Castle Wolfenstein.
+DSGLKIN - ""
+DSGLKCK - Alliance of Valiant Arms.
+DSTACSHO - Killing Floor.
+DSDBLOAD - ???
+DSDBCLS - The Specialists.
+DSDBOPN - Quake 3 Arena.
+DSPLASMA - ???
+DSDSHTGN - 007: Nightfire (PC version); sorry about the low quality but I don't have the original rip anymore.

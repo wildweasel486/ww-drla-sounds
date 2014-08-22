@@ -1,0 +1,60 @@
+weapons/blaster						dsblastr
+
+weapons/handcannonunload				dsdeagot
+weapons/handcannonload				dsdeagin
+weapons/handcannoncock				dsdeagck
+
+weapons/plasmashotgun				dspshtgn
+
+weapons/uziunload					dsuziout
+weapons/uziload						dsuziin
+
+weapons/battlerifleunload			brload1
+weapons/battlerifleload				brload2
+
+weapons/gcbunload					dsgcbout
+weapons/gcbload						dsgcbin
+weapons/gcbcock						dsgcbhit
+
+weapons/tacticalshotgununload		dstacout
+weapons/tacticalshotgunload			dstacin
+
+weapons/heavyshotgunpump				shotpump
+$random weapons/heavyshotgun { hshotf1 hshotf2 hshotf3 hshotf4 }
+hshotf1 hshotf1
+hshotf2 hshotf2
+hshotf3 hshotf3
+hshotf4 hshotf4
+
+weapons/hpblaster					dsblasth
+
+weapons/hpuzi						dshpuzif
+$limit weapons/hpuzi	 0
+$alias weapons/hpuziunload					weapons/uziunload
+$alias weapons/hpuziload					weapons/uziload
+$alias weapons/assaultuzi					weapons/uzi
+$alias weapons/assaultuziunload				weapons/uziunload
+$alias weapons/assaultuziload				weapons/uziload
+$alias weapons/burstuzi						weapons/uzi
+$alias weapons/burstuziunload				weapons/uziunload
+$alias weapons/burstuziload					weapons/uziload
+$alias weapons/nanouzi						weapons/uzi
+$alias weapons/demouzi						weapons/uzi
+$alias weapons/demouziunload				weapons/uziunload
+$alias weapons/demouziload					weapons/uziload
+
+$alias weapons/hpbattlerifleunload			weapons/battlerifleunload
+$alias weapons/hpbattlerifleload			weapons/battlerifleload
+$alias weapons/assaultbattlerifle			weapons/battlerifle
+$alias weapons/assaultbattlerifleunload		weapons/battlerifleunload
+$alias weapons/assaultbattlerifleload		weapons/battlerifleload
+$alias weapons/burstbattlerifle				weapons/battlerifle
+$alias weapons/burstbattlerifleunload		weapons/battlerifleunload
+$alias weapons/burstbattlerifleload			weapons/battlerifleload
+$alias weapons/nanobattlerifle				weapons/battlerifle
+$alias weapons/demobattlerifle				weapons/battlerifle
+$alias weapons/demobattlerifleunload		weapons/battlerifleunload
+$alias weapons/demobattlerifleload			weapons/battlerifleload
+
+//Things I added
+$limit weapons/highpowerplasma 0
