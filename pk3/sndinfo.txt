@@ -4,6 +4,8 @@ weapons/handcannonunload				dsdeagot
 weapons/handcannonload				dsdeagin
 weapons/handcannoncock				dsdeagck
 
+weapons/highpowermarksmanpistol		DSHPMKPS
+
 weapons/plasmashotgun				dspshtgn
 
 weapons/uziunload					dsuziout
