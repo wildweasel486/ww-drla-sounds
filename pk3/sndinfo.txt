@@ -60,3 +60,55 @@ $alias weapons/demobattlerifleload			weapons/battlerifleload
 
 //Things I added
 $limit weapons/highpowerplasma 0
+
+// DoomRPG specific stuff
+
+$random misc/levelup { ww/levelup1 ww/levelup2 ww/levelup3 ww/levelup4 ww/levelup5 ww/levelup6 ww/levelup7 ww/levelup8 ww/levelup9 ww/levelup10 }
+ww/levelup1 levlup01
+ww/levelup2 levlup02
+ww/levelup3 levlup03
+ww/levelup4 levlup04
+ww/levelup5 levlup05
+ww/levelup6 levlup06
+ww/levelup7 levlup07
+ww/levelup8 levlup08
+ww/levelup9 levlup09
+ww/levelup10 levlup10
+
+$random mission/complete { ww/missioncomplete1 ww/missioncomplete2 ww/missioncomplete3 ww/missioncomplete4 ww/missioncomplete5 ww/missioncomplete6 ww/missioncomplete7 ww/missioncomplete8 ww/missioncomplete9 ww/missioncomplete10 ww/missioncomplete11 ww/missioncomplete12 ww/missioncomplete13 ww/missioncomplete14 ww/missioncomplete15 ww/missioncomplete16 ww/missioncomplete17 ww/missioncomplete18 ww/missioncomplete19 ww/missioncomplete20 ww/missioncomplete21 }
+ww/missioncomplete1 msncmp01
+ww/missioncomplete2 msncmp02
+ww/missioncomplete3 msncmp03
+ww/missioncomplete4 msncmp04
+ww/missioncomplete5 msncmp05
+ww/missioncomplete6 msncmp06
+ww/missioncomplete7 msncmp07
+ww/missioncomplete8 msncmp08
+ww/missioncomplete9 msncmp09
+ww/missioncomplete10 msncmp10
+ww/missioncomplete11 msncmp11
+ww/missioncomplete12 msncmp12
+ww/missioncomplete13 msncmp13
+ww/missioncomplete14 msncmp14
+ww/missioncomplete15 msncmp15
+ww/missioncomplete16 msncmp16
+ww/missioncomplete17 msncmp17
+ww/missioncomplete18 msncmp18
+ww/missioncomplete19 msncmp19
+ww/missioncomplete20 msncmp20
+ww/missioncomplete21 msncmp21
+
+$random misc/secret { ww/secret1 ww/secret2 ww/secret3 ww/secret4 ww/secret5 ww/secret6 ww/secret7 ww/secret8 ww/secret9 ww/secret10 ww/secret11 ww/secret12 ww/secret13 }
+ww/secret1 secret01
+ww/secret2 secret02
+ww/secret3 secret03
+ww/secret4 secret04
+ww/secret5 secret05
+ww/secret6 secret06
+ww/secret7 secret07
+ww/secret8 secret08
+ww/secret9 secret09
+ww/secret10 secret10
+ww/secret11 secret11
+ww/secret12 secret12
+ww/secret13 secret13
