@@ -115,6 +115,7 @@ dspshtgn.flac - System Shock 2, EMP firing sound.
 brload*.flac - Freesound.org, courtesy of Yzhamua and NoiseCollector.
 dshpuacr.flac - Killing Floor, M4 single-fire sound.
 dsuacrif.flac - Alliance of Valiant Arms.
+dsbulrf*.flac - Metal Gear Solid 3.
 \Chaingun\
 dschain*.flac - Combination of stock gunfire sound plus machinegun firing and mechanical noises from Doom 3.
 \Uzi\
