@@ -1,24 +1,77 @@
 Credits for sounds used in this pack and explanations for how I compiled them.
-
-Okay, time for a full-on credits audit.
+!!NOTE!! - This credits list may be very behind! I should really be updating it more frequently so I don't forget where shit came from.
 
 \sounds\
-dssecret.flac - Arkanoid.
-
-\sounds\BFG\ << nothing here yet
+dssecret.flac - Star Wars: Dark Forces 2: Jedi Knight. (Probably unused now due to recent changes)
 
 \sounds\boots\
 dstekfs*.flac - Quake 3 Arena, TankJR's footsteps because the whirring mechanical noises were irritating.
 
+\sounds\DoomRPG\
+CPAYOUT.flac - Half-Life 2 and Tom Clancy's Rainbow Six: Rogue Spear.
+CREDGET.flac - Oni.
+HEALUP.flac - Killing Floor.
+MISSGET.flac - ?
+TELERIFT.flac - Quake 2 (combination of two sounds)
+transfer.flac - ?
+
+\sounds\DoomRPG\levelup\
+levlup01.flac - Dimahoo.
+levlup02.flac - ZZT.
+levlup03.flac - Fire Emblem 4: Genealogy of the Holy War.
+levlup04.flac - Wetrix.
+levlup05.flac - Final Fantasy XII.
+levlup06.flac - Crimsonland.
+levlup07.flac - Wolfenstein: Enemy Territory.
+levlup08.flac - Wolfenstein: Enemy Territory.
+levlup09.flac - Tactics Ogre: Let Us Cling Together (SNES ver.)
+levlup10.flac - The Elder Scrolls IV: Oblivion.
+
+\sounds\DoomRPG\Missions\
+msncmp01.flac - Metal Morph (Pauly Shore?).
+msncmp02.flac - SpikeOut: Battle Street.
+msncmp03.flac - Dimahoo.
+msncmp04.flac - Gears (Shockwave.com).
+msncmp05.flac - Spanky's Quest.
+msncmp06.flac - PilotWings.
+msncmp07.flac - Secret of Evermore.
+msncmp08.flac - Shining Force II.
+msncmp09.flac - Earthbound.
+msncmp10.flac - Gain Ground.
+msncmp11.flac - Battletoads.
+msncmp12.flac - Metal Gear Ac!d 2.
+msncmp13.flac - Rampart.
+msncmp14.flac - Super Bombliss.
+msncmp15.flac - Tetris & Dr. Mario (SNES).
+msncmp16.flac - Earthbound.
+msncmp17.flac - Dr. Robotnik's Mean Bean Machine (Puyo-Puyo).
+msncmp18.flac - Gorky 17 (Odium).
+msncmp19.flac - SpikeOut: Battle Street.
+msncmp20.flac - Xybots.
+msncmp21.flac - SiN.
+
+\sounds\DoomRPG\Secrets\
+secret01.flac - SpikeOut: Battle Street.
+secret02.flac - Loom.
+secret03.flac - Crimson Shroud.
+secret04.flac - Dragon's Fury (Devil Crash MD).
+secret05.flac - Beyond Oasis.
+secret06.flac - Columns III.
+secret07.flac - Kirby's Dream Land 3.
+secret08.flac - Kirby's Dream Land 3.
+secret09.flac - Off The Wall (Atari Games).
+secret10.flac - Seiken Densetsu 3 (Secret of Mana 2).
+secret11.flac - Super Tetris 2.
+secret12.flac - Wild Guns.
+secret13.flac - Star Wars: Dark Forces 2: Jedi Knight.
+
 \sounds\explosives\
 dsrlaunc.flac - Half-Life 2's RPG.
-
-\sounds\other\ << nothing here yet
 
 \sounds\pistols\
 \combatpistol\
 dscompis.flac - Killing Floor, Thompson SMG single-fire mode.
-dshpcomp.flac - I...honestly forget. Probably also from Killing Floor but I forget which gun.
+dshpcomp.flac - Killing Floor, Mk23 pistol.
 \grammaton\
 dsgcbfir.flac - Soldier of Fortune 2, M1911A1 firing sound.
 dsgcbhit.flac - ?
@@ -33,12 +86,15 @@ dsdeagot.flac - ?
 dshpdeag.flac - Killing Floor, Handcannon firing sound.
 \jackal\
 dsjackal.flac - Soldier of Fortune 2, Silver Talon firing sound.
+\marksman\
+dshpmkps.flac - Alliance of Valiant Arms, .357 Magnum firing sound.
+dsmrkpis.flac - Medal of Honor: Pacific Assault and Red Faction (combined).
 \pistol\
 dsglkck.flac - Freesound.org, unknown source (will dig up later)
 dsglkin.flac - Combination of reload sounds from System Shock 2 and Return to Castle Wolfenstein.
 dsglkout.flac - Combination of reload sounds from System Shock 2 and Return to Castle Wolfenstein.
 dshppist.flac - Killing Floor, 9mm Handgun firing sound.
-dspistol.flac - Stock sound source plus Resident Evil 4 pistol firing sound.
+dspistol.flac - Resident Evil 4.
 
 \sounds\plasma\
 \blaster\
@@ -74,15 +130,20 @@ dssgpump.flac - Soldier of Fortune.
 dsdbcls.flac - The Specialists.
 dsdbload.flac - Resident Evil 4.
 dsdbopn.flac - Quake 3 Arena.
-dsdshtgn.flac - 007 Nightfire (PC version).
+dsdshtgn.flac - Half-Life 2.
 \heavyshotgun\
 hshotf*.flac - Borderlands.
 shotpump.flac - Medal of Honor: Pacific Assault.
+\jackhammer\
+jackfi*.flac - ? (sourced from ww-cash2.pk3)
 \shotgun\
-dsshot1.flac - Half-Life 2, grenade explosion.
+dsshot1.flac - Half-Life 2.
 dsshotgn.flac - From one of Half-Life 2's grenade explosions and a stock sound effect. I intended to recreate the shotgun sound from STRAIN.wad in higher quality.
 dsshotp2.flac - Stock sound effect (Goldeneye reload), slightly faster.
 \tacticalshotgun\
 dstacin.flac - Killing Floor, AA12 reload.
 dstacout.flac - ""
 dstacsho.flac - Killing Floor.
+
+\music\
+outpost1.flac - Command & Conquer MS-DOS installer ambience.
