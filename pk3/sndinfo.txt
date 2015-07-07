@@ -34,6 +34,11 @@ hshotf2 hshotf2
 hshotf3 hshotf3
 hshotf4 hshotf4
 
+weapons/heavydoubleshotgun					DHVSFIRE
+weapons/heavydoubleshotgunopen				DHVSOPEN
+weapons/heavydoubleshotgunload				DHVSLOAD
+weapons/heavydoubleshotgunclose				DHVSCLS
+
 $random weapons/jackhammer { ww/jackhammer1 ww/jackhammer2 ww/jackhammer3 }
 ww/jackhammer1 jackfi01
 ww/jackhammer2 jackfi02
