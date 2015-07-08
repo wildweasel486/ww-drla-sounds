@@ -43,6 +43,10 @@ weapons/heavydoubleshotgunopen				DHVSOPEN
 weapons/heavydoubleshotgunload				DHVSLOAD
 weapons/heavydoubleshotgunclose				DHVSCLS
 
+weapons/focuseddoubleshotgunopen		DSFOCOPN
+weapons/focuseddoubleshotgunload		DSFOCLOD
+weapons/focuseddoubleshotgunclose		DSFOCCLS
+
 $random weapons/jackhammer { ww/jackhammer1 ww/jackhammer2 ww/jackhammer3 }
 ww/jackhammer1 jackfi01
 ww/jackhammer2 jackfi02
