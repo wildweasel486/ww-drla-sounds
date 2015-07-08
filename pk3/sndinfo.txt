@@ -1,3 +1,7 @@
+weapons/silencedpistolload			DSSILEIN
+weapons/silencedpistolunload		DSSILEOT
+weapons/silencedpistolcock			DSSILECK
+
 weapons/blaster						dsblastr
 
 weapons/handcannonunload				dsdeagot
@@ -73,6 +77,11 @@ $alias weapons/nanobattlerifle				weapons/battlerifle
 $alias weapons/demobattlerifle				weapons/battlerifle
 $alias weapons/demobattlerifleunload		weapons/battlerifleunload
 $alias weapons/demobattlerifleload			weapons/battlerifleload
+
+weapons/stealthrifle				STRIFLFR	
+weapons/stealthriflecock			STRIFLCK
+weapons/stealthrifleunload			STRIFLOT
+weapons/stealthrifleload			STRIFLIN
 
 //Things I added
 $limit weapons/highpowerplasma 0
