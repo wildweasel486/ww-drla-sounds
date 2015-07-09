@@ -87,6 +87,10 @@ weapons/stealthriflecock			STRIFLCK
 weapons/stealthrifleunload			STRIFLOT
 weapons/stealthrifleload			STRIFLIN
 
+weapons/hpbattleriflecock			DSHPBRCK
+weapons/hpbattlerifleunload			DSHPBROT
+weapons/hpbattlerifleload			DSHPBRIN
+
 //Things I added
 $limit weapons/highpowerplasma 0
 
