@@ -15,6 +15,27 @@ $playersound	Scout	male	*fist		DSPUNCH
 $playersound	Scout	male	*usefail	SCOOF
 $playersound	Scout	male	*falling	SCFALLIN
 
+//MARINE
+$playersound	Marine	male	*death		mrdeath
+$playersound	Marine	male	*xdeath		mrdiehi
+$playersound	Marine	male	*gibbed		DSSLOP
+$random drlamarine/pain { drlamarine/pain1 drlamarine/pain2 drlamarine/pain3 drlamarine/pain4 drlamarine/pain5 }
+drlamarine/pain1 mrpain1
+drlamarine/pain2 mrpain2
+drlamarine/pain3 mrpain3
+drlamarine/pain4 mrpain4
+drlamarine/pain5 mrpain5
+$playeralias	Marine	male	*pain100	drlamarine/pain
+$playersounddup	Marine	male	*pain75		*pain100
+$playersounddup	Marine	male	*pain50		*pain100
+$playersounddup	Marine	male	*pain25		*pain100
+$playersound	Marine	male	*grunt		mroof
+$playersounddup	Marine	male	*land		*grunt
+$playersound	Marine	male	*jump		mrjump
+$playersound	Marine	male	*fist		DSPUNCH
+$playersound	Marine	male	*usefail	mroof
+$playersound	Marine	male	*falling	MRFALLIN
+
 weapons/silencedpistolload			DSSILEIN
 weapons/silencedpistolunload		DSSILEOT
 weapons/silencedpistolcock			DSSILECK
