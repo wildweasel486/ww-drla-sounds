@@ -1,3 +1,20 @@
+// Player sounds
+
+//SCOUT
+$playersound	Scout	male	*death		SCDEATH
+$playersound	Scout	male	*xdeath		SCDIEHI
+$playersound	Scout	male	*gibbed		DSSLOP
+$playersound	Scout	male	*pain100	SCPWEAK
+$playersound	Scout	male	*pain75		SCPMEDI
+$playersound	Scout	male	*pain50		SCPHARD
+$playersound	Scout	male	*pain25		SCPCRIT
+$playersound	Scout	male	*grunt		SCOOF
+$playersound	Scout	male	*land		SCOOF
+$playersound	Scout	male	*jump		SCJUMP
+$playersound	Scout	male	*fist		DSPUNCH
+$playersound	Scout	male	*usefail	SCOOF
+$playersound	Scout	male	*falling	SCFALLIN
+
 weapons/silencedpistolload			DSSILEIN
 weapons/silencedpistolunload		DSSILEOT
 weapons/silencedpistolcock			DSSILECK
