@@ -4,9 +4,11 @@ weapons/silencedpistolcock			DSSILECK
 
 weapons/blaster						dsblastr
 
-weapons/handcannonunload				dsdeagot
+weapons/handcannonunload			dsdeagot
 weapons/handcannonload				dsdeagin
 weapons/handcannoncock				dsdeagck
+
+weapons/HPpp7						DSHPPP7
 
 weapons/highpowermarksmanpistol		DSHPMKPS
 
