@@ -36,6 +36,21 @@ $playersound	Marine	male	*fist		DSPUNCH
 $playersound	Marine	male	*usefail	mroof
 $playersound	Marine	male	*falling	MRFALLIN
 
+//TECHNICIAN
+$playersound	Technician	male	*death		TCDEATH
+$playersound	Technician	male	*xdeath		TCDIEHI
+$playersound	Technician	male	*gibbed		DSSLOP
+$playersound	Technician	male	*pain100	TCPWEAK
+$playersounddup	Technician	male	*pain75		*pain100
+$playersound	Technician	male	*pain50		TCPHARD
+$playersounddup	Technician	male	*pain25		*pain50
+$playersound	Technician	male	*grunt		TCOOF
+$playersounddup	Technician	male	*land		*grunt
+$playersound	Technician	male	*jump		TCJUMP
+$playersound	Technician	male	*fist		DSPUNCH
+$playersound	Technician	male	*usefail	TCNOWAY
+$playersound	Technician	male	*falling	TCFALLIN
+
 weapons/silencedpistolload			DSSILEIN
 weapons/silencedpistolunload		DSSILEOT
 weapons/silencedpistolcock			DSSILECK
