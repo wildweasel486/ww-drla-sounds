@@ -149,6 +149,12 @@ weapons/hpbattleriflecock			DSHPBRCK
 weapons/hpbattlerifleunload			DSHPBROT
 weapons/hpbattlerifleload			DSHPBRIN
 
+weapons/sniperrifleload				DSSNIPLD
+weapons/sniperrifleunload			DSSNIPUL
+// I only have one of these so let's save space and alias the other two
+$alias weapons/sniperrifle2 weapons/sniperrifle1
+$alias weapons/sniperrifle3 weapons/sniperrifle1
+
 //Things I added
 $limit weapons/highpowerplasma 0
 
