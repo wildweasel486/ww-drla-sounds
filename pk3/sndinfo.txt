@@ -51,6 +51,12 @@ $playersound	Technician	male	*fist		DSPUNCH
 $playersound	Technician	male	*usefail	TCNOWAY
 $playersound	Technician	male	*falling	TCFALLIN
 
+// GUNS
+weapons/ripperup					RIPRUP
+weapons/ripperidle					RIPRIDLE
+weapons/ripperfull					RIPRREVV
+weapons/ripperhit					RIPRFLSH
+
 weapons/silencedpistolload			DSSILEIN
 weapons/silencedpistolunload		DSSILEOT
 weapons/silencedpistolcock			DSSILECK
