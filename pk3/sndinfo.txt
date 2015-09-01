@@ -86,6 +86,11 @@ weapons/gcbcock						dsgcbhit
 weapons/tacticalshotgununload		dstacout
 weapons/tacticalshotgunload			dstacin
 
+$random weapons/shellload { shellload1 shellload2 shellload3 }
+shellload1 dsshtlo1
+shellload2 dsshtlo2
+shellload3 dsshtlo3
+
 // This one doesn't affect DRLA but it'll make the chaingun sound different in "vanilla"
 $random weapons/chngun { ww/chaingun1 ww/chaingun2 ww/chaingun3 }
 ww/chaingun1 dschain1
