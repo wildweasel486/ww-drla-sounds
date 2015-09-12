@@ -86,6 +86,8 @@ weapons/gcbcock						dsgcbhit
 weapons/tacticalshotgununload		dstacout
 weapons/tacticalshotgunload			dstacin
 
+weapons/doubleshotgunsingle			dsdshtgs
+
 $random weapons/shellload { shellload1 shellload2 shellload3 }
 shellload1 dsshtlo1
 shellload2 dsshtlo2
