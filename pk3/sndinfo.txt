@@ -33,7 +33,7 @@ $playersound	Marine	male	*grunt		mroof
 $playersounddup	Marine	male	*land		*grunt
 $playersound	Marine	male	*jump		mrjump
 $playersound	Marine	male	*fist		DSPUNCH
-$playersound	Marine	male	*usefail	mroof
+$playersound	Marine	male	*usefail	mrnoway
 $playersound	Marine	male	*falling	MRFALLIN
 
 //TECHNICIAN
