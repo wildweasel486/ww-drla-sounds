@@ -95,6 +95,19 @@ dsglkin.flac - Combination of reload sounds from System Shock 2 and Return to Ca
 dsglkout.flac - Combination of reload sounds from System Shock 2 and Return to Castle Wolfenstein.
 dshppist.flac - Killing Floor, 9mm Handgun firing sound.
 dspistol.flac - Resident Evil 4.
+\pp7\
+DSPP7.flac - Unknown stock sounds library (high-quality version of sound used in Goldeneye N64)
+DSHPPP7.flac - ""
+\revolver\
+DSMAGNUM.flac - Unreal II: The Awakening
+DSMAGIN.flac - ? (Counter-Strike replacement model?)
+DSMAGOUT.flac - ""
+DSMAGOPN.flac - ""
+\silenced\
+DSSILENC.flac - Tom Clancy's Rainbox Six 3: Raven Shield
+DSSILEOT.flac - Freesound.org, unknown source
+DSSILEIN.flac - ""
+DSSILECK.flac - ""
 
 \sounds\plasma\
 \blaster\
