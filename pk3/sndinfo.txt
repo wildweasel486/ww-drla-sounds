@@ -75,6 +75,8 @@ weapons/plasmashotgun				dspshtgn
 
 weapons/uziunload					dsuziout
 weapons/uziload						dsuziin
+$alias weapons/stormuziload					weapons/uziload
+$alias weapons/stormuziunload				weapons/uziunload
 
 weapons/battlerifleunload			brload1
 weapons/battlerifleload				brload2
