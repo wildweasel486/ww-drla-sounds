@@ -67,7 +67,11 @@ weapons/handcannonunload			dsdeagot
 weapons/handcannonload				dsdeagin
 weapons/handcannoncock				dsdeagck
 
+weapons/pp7unload					DSRCP9OT
+weapons/pp7load						DSRCP9IN
 weapons/HPpp7						DSHPPP7
+weapons/highpowerpp7unload					DSRCP9OT
+weapons/highpowerpp7load						DSRCP9IN
 
 weapons/highpowermarksmanpistol		DSHPMKPS
 
@@ -139,6 +143,8 @@ $alias weapons/demouzi						weapons/uzi
 $alias weapons/demouziunload				weapons/uziunload
 $alias weapons/demouziload					weapons/uziload
 
+weapons/rcp90unload			DSRCP9OT
+weapons/rcp90load			DSRCP9IN
 // in DRLA this is aliased to the HP Uzi, but since that sound's changed, let's unalias it
 weapons/RCP120				DSRCP120
 
