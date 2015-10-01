@@ -87,8 +87,14 @@ dshpdeag.flac - Killing Floor, Handcannon firing sound.
 \jackal\
 dsjackal.flac - Soldier of Fortune 2, Silver Talon firing sound.
 \marksman\
-dshpmkps.flac - Alliance of Valiant Arms, .357 Magnum firing sound.
+dshpmkps.flac - Medal of Honor: Pacific Assault.
+hpmkpsot.flac - Max Payne 2.
+hpmkpsin.flac - Max Payne 2.
+hpmkpsck.flac - Max Payne 2.
 dsmrkpis.flac - Medal of Honor: Pacific Assault and Red Faction (combined).
+mkpsot.flac - Action Unreal Tournament.
+mkpsin.flac - Action Unreal Tournament.
+mkpsck.flac - Action Unreal Tournament.
 \pistol\
 dsglkck.flac - Freesound.org, unknown source (will dig up later)
 dsglkin.flac - Combination of reload sounds from System Shock 2 and Return to Castle Wolfenstein.
