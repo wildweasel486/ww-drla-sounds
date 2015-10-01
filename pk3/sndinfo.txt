@@ -73,7 +73,13 @@ weapons/HPpp7						DSHPPP7
 weapons/highpowerpp7unload					DSRCP9OT
 weapons/highpowerpp7load						DSRCP9IN
 
+weapons/marksmanpistolunload		MKPSOT
+weapons/marksmanpistolload			MKPSIN
+weapons/marksmanpistolcock			MKPSCK
 weapons/highpowermarksmanpistol		DSHPMKPS
+weapons/hpmarksmanpistolcock	HPMKPSCK
+weapons/hpmarksmanpistolunload	HPMKPSOT
+weapons/hpmarksmanpistolload	HPMKPSIN
 
 weapons/plasmashotgun				dspshtgn
 
