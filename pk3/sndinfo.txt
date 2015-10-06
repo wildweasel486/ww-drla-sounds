@@ -45,7 +45,7 @@ $playersounddup	Technician	male	*pain75		*pain100
 $playersound	Technician	male	*pain50		TCPHARD
 $playersounddup	Technician	male	*pain25		*pain50
 $playersound	Technician	male	*grunt		TCNOWAY
-$playersounddup	Technician	male	*land		TCOOF
+$playersound	Technician	male	*land		TCOOF
 $playersound	Technician	male	*jump		TCJUMP
 $playersound	Technician	male	*fist		DSPUNCH
 $playersound	Technician	male	*usefail	rfnoway
