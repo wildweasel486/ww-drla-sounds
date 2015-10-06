@@ -12,7 +12,7 @@ $playersound	Scout	male	*grunt		SCOOF
 $playersound	Scout	male	*land		SCOOF
 $playersound	Scout	male	*jump		SCJUMP
 $playersound	Scout	male	*fist		DSPUNCH
-$playersound	Scout	male	*usefail	SCOOF
+$playersound	Scout	male	*usefail	rfnoway
 $playersound	Scout	male	*falling	SCFALLIN
 
 //MARINE
@@ -33,7 +33,7 @@ $playersound	Marine	male	*grunt		mroof
 $playersounddup	Marine	male	*land		*grunt
 $playersound	Marine	male	*jump		mrjump
 $playersound	Marine	male	*fist		DSPUNCH
-$playersound	Marine	male	*usefail	mrnoway
+$playersound	Marine	male	*usefail	rfnoway
 $playersound	Marine	male	*falling	MRFALLIN
 
 //TECHNICIAN
@@ -44,11 +44,11 @@ $playersound	Technician	male	*pain100	TCPWEAK
 $playersounddup	Technician	male	*pain75		*pain100
 $playersound	Technician	male	*pain50		TCPHARD
 $playersounddup	Technician	male	*pain25		*pain50
-$playersound	Technician	male	*grunt		TCOOF
-$playersounddup	Technician	male	*land		*grunt
+$playersound	Technician	male	*grunt		TCNOWAY
+$playersounddup	Technician	male	*land		TCOOF
 $playersound	Technician	male	*jump		TCJUMP
 $playersound	Technician	male	*fist		DSPUNCH
-$playersound	Technician	male	*usefail	TCNOWAY
+$playersound	Technician	male	*usefail	rfnoway
 $playersound	Technician	male	*falling	TCFALLIN
 
 // GUNS
