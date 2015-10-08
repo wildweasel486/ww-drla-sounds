@@ -175,6 +175,13 @@ weapons/stealthriflecock			STRIFLCK
 weapons/stealthrifleunload			STRIFLOT
 weapons/stealthrifleload			STRIFLIN
 
+weapons/marksmanriflecock				MRKRIFHT
+weapons/marksmanrifleunload				MRKRIFOT
+weapons/marksmanrifleload				MRKRIFIN
+weapons/highpowermarksmanriflecock		HMKRIFHT
+weapons/highpowermarksmanrifleunload	HMKRIFOT
+weapons/highpowermarksmanrifleload		HMKRIFIN
+
 weapons/hpbattleriflecock			DSHPBRCK
 weapons/hpbattlerifleunload			DSHPBROT
 weapons/hpbattlerifleload			DSHPBRIN

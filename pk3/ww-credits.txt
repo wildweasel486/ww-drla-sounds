@@ -171,6 +171,23 @@ dstacin.flac - Killing Floor, AA12 reload.
 dstacout.flac - ""
 dstacsho.flac - Killing Floor.
 
+\sounds\snipers\
+\sniperrifle\
+dssnipfi.flac - Medal of Honor Allied Assault: Breakthrough and Call of Duty 2.
+dssnipld.flac - ?
+dssnipul.flac - ?
+\marksmanrifle\
+dshpmrkr.flac - Soldier of Fortune.
+dsmrkrfi.flac - Soldier of Fortune 2.
+hmkrifht.flac - ?
+hmkrifin.flac - ?
+hmkrifot.flac - ?
+Mrkrifht.flac - Freesound.org courtesy of Yzhamua and NoiseCollector.
+Mrkrifin.ogg - Freesound.org courtesy of Yzhamua and NoiseCollector.
+Mrkrifot.ogg - Freesound.org courtesy of Yzhamua and NoiseCollector.
+
+
+
 \music\
 outpost1.flac - Command & Conquer MS-DOS installer ambience.
 
