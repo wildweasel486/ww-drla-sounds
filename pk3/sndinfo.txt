@@ -111,6 +111,9 @@ ww/chaingun1 dschain1
 ww/chaingun2 dschain2
 ww/chaingun3 dschain3
 
+weapons/assaultshotgun				dsasssht
+weapons/heavyassaultshotgun			dshassht
+
 weapons/heavyshotgunpump				shotpump
 $random weapons/heavyshotgun { hshotf1 hshotf2 hshotf3 hshotf4 }
 hshotf1 hshotf1

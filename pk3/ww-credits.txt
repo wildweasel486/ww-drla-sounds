@@ -84,6 +84,9 @@ dsdeagin.flac - ?
 dsdeagle.flac - Stock sound library, most recognizably Goldeneye 007's Cougar Magnum (but much higher quality)
 dsdeagot.flac - ?
 dshpdeag.flac - Killing Floor, Handcannon firing sound.
+\huntingrevolver\
+dshunrev.flac - Killing Floor, Revolver.
+dshphrev.ogg - Killing Floor IJC Weapon Pack, FN FAL.
 \jackal\
 dsjackal.flac - Soldier of Fortune 2, Silver Talon firing sound.
 \marksman\
@@ -144,6 +147,9 @@ dsuziout.flac - Killing Floor.
 dsuziin.flac - Killing Floor.
 
 \sounds\shotguns\
+\assaultshotgun\
+dsasssht.flac - Tom Clancy's Rainbow Six: Raven Shield.
+dshassht.flac - Max Payne 2.
 \combatshotgun\
 dssgpump.flac - Soldier of Fortune.
 \doubleshotgun\
