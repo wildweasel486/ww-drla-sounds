@@ -189,6 +189,9 @@ weapons/hpbattlerifleload			DSHPBRIN
 weapons/sniperrifleload				DSSNIPLD
 weapons/sniperrifleunload			DSSNIPUL
 
+//For 1.02, make the shockwave boots louder.
+$volume steps/techstep 0.25
+
 //Things I added
 $limit weapons/highpowerplasma 0
 
