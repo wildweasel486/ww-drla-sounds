@@ -9,32 +9,47 @@ $playersound	Scout	male	*pain75		SCPMEDI
 $playersound	Scout	male	*pain50		SCPHARD
 $playersound	Scout	male	*pain25		SCPCRIT
 $playersound	Scout	male	*grunt		SCOOF
-$playersound	Scout	male	*land		SCOOF
+$playersound	Scout	male	*land		TCOOF
 $playersound	Scout	male	*jump		SCJUMP
 $playersound	Scout	male	*fist		DSPUNCH
 $playersound	Scout	male	*usefail	rfnoway
 $playersound	Scout	male	*falling	SCFALLIN
 
 //MARINE
-$playersound	Marine	male	*death		mrdeath
-$playersound	Marine	male	*xdeath		mrdiehi
+$random drlamarine/dielo { drlamarine/dielo1 drlamarine/dielo2 drlamarine/dielo3 drlamarine/dielo4 }
+drlamarine/dielo1 mrdielo1
+drlamarine/dielo2 mrdielo2
+drlamarine/dielo3 mrdielo3
+drlamarine/dielo4 mrdielo4
+$playeralias	Marine	male	*death		drlamarine/dielo
+$random drlamarine/diehi { drlamarine/diehi1 drlamarine/diehi2 drlamarine/diehi3 drlamarine/diehi4 }
+drlamarine/diehi1 mrdiehi1
+drlamarine/diehi2 mrdiehi2
+drlamarine/diehi3 mrdiehi3
+drlamarine/diehi4 mrdiehi4
+$playeralias	Marine	male	*xdeath		drlamarine/diehi
 $playersound	Marine	male	*gibbed		DSSLOP
-$random drlamarine/pain { drlamarine/pain1 drlamarine/pain2 drlamarine/pain3 drlamarine/pain4 drlamarine/pain5 }
-drlamarine/pain1 mrpain1
-drlamarine/pain2 mrpain2
-drlamarine/pain3 mrpain3
-drlamarine/pain4 mrpain4
-drlamarine/pain5 mrpain5
-$playeralias	Marine	male	*pain100	drlamarine/pain
-$playersounddup	Marine	male	*pain75		*pain100
-$playersounddup	Marine	male	*pain50		*pain100
-$playersounddup	Marine	male	*pain25		*pain100
+$random drlamarine/painlow { drlamarine/painlow1 drlamarine/painlow2 drlamarine/painlow3 drlamarine/painlow4 }
+drlamarine/painlow1 mrpainl1
+drlamarine/painlow2 mrpainl2
+drlamarine/painlow3 mrpainl3
+drlamarine/painlow4 mrpainl4
+$random drlamarine/painmed { drlamarine/painmed1 drlamarine/painmed2 }
+drlamarine/painmed1 mrpainm1
+drlamarine/painmed2 mrpainm2
+$random drlamarine/painhi {  drlamarine/painhi1 drlamarine/painhi2 } 
+drlamarine/painhi1 mrpainh1
+drlamarine/painhi2 mrpainh2
+$playeralias	Marine	male	*pain100	drlamarine/painlow
+$playeralias	Marine	male	*pain75		drlamarine/painlow
+$playeralias	Marine	male	*pain50		drlamarine/painmed
+$playeralias	Marine	male	*pain25		drlamarine/painhi
 $playersound	Marine	male	*grunt		mroof
-$playersounddup	Marine	male	*land		*grunt
+$playersound	Marine	male	*land		TCOOF
 $playersound	Marine	male	*jump		mrjump
 $playersound	Marine	male	*fist		DSPUNCH
 $playersound	Marine	male	*usefail	rfnoway
-$playersound	Marine	male	*falling	MRFALLIN
+$playersound	Marine	male	*falling	TCFALLIN
 
 //TECHNICIAN
 $playersound	Technician	male	*death		TCDEATH
@@ -50,6 +65,28 @@ $playersound	Technician	male	*jump		TCJUMP
 $playersound	Technician	male	*fist		DSPUNCH
 $playersound	Technician	male	*usefail	rfnoway
 $playersound	Technician	male	*falling	TCFALLIN
+
+
+//DEMOLITIONIST
+$playersound	Demolitionist	male	*death		dmdeath
+$playersound	Demolitionist	male	*xdeath		dmdiehi
+$playersound	Demolitionist	male	*gibbed		DSSLOP
+$random drlaDemolitionist/pain { drlaDemolitionist/pain1 drlaDemolitionist/pain2 drlaDemolitionist/pain3 drlaDemolitionist/pain4 drlaDemolitionist/pain5 }
+drlaDemolitionist/pain1 dmpain1
+drlaDemolitionist/pain2 dmpain2
+drlaDemolitionist/pain3 dmpain3
+drlaDemolitionist/pain4 dmpain4
+drlaDemolitionist/pain5 dmpain5
+$playeralias	Demolitionist	male	*pain100	drlaDemolitionist/pain
+$playersounddup	Demolitionist	male	*pain75		*pain100
+$playersounddup	Demolitionist	male	*pain50		*pain100
+$playersounddup	Demolitionist	male	*pain25		*pain100
+$playersound	Demolitionist	male	*grunt		dmoof
+$playersounddup	Demolitionist	male	*land		*grunt
+$playersound	Demolitionist	male	*jump		dmjump
+$playersound	Demolitionist	male	*fist		DSPUNCH
+$playersound	Demolitionist	male	*usefail	rfnoway
+$playersound	Demolitionist	male	*falling	DMFALLIN
 
 // GUNS
 weapons/ripperup					RIPRUP
