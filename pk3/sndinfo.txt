@@ -103,6 +103,12 @@ weapons/blaster						dsblastr
 weapons/handcannonunload			dsdeagot
 weapons/handcannonload				dsdeagin
 weapons/handcannoncock				dsdeagck
+$alias weapons/hphandcannonload				weapons/handcannonload
+$alias weapons/hphandcannonunload			weapons/handcannonunload
+$alias weapons/hphandcannoncock				weapons/handcannoncock
+$alias weapons/demohandcannonload			weapons/handcannonload
+$alias weapons/demohandcannonunload			weapons/handcannonunload
+$alias weapons/demohandcannoncock			weapons/handcannoncock
 
 weapons/pp7unload					DSRCP9OT
 weapons/pp7load						DSRCP9IN
