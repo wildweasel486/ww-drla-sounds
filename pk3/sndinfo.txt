@@ -9,7 +9,7 @@ $playersound	Scout	male	*pain75		SCPMEDI
 $playersound	Scout	male	*pain50		SCPHARD
 $playersound	Scout	male	*pain25		SCPCRIT
 $playersound	Scout	male	*grunt		SCOOF
-$playersound	Scout	male	*land		TCOOF
+$playersound	Scout	male	*land		dsscland
 $playersound	Scout	male	*jump		SCJUMP
 $playersound	Scout	male	*fist		DSPUNCH
 $playersound	Scout	male	*usefail	rfnoway
@@ -45,7 +45,7 @@ $playeralias	Marine	male	*pain75		drlamarine/painlow
 $playeralias	Marine	male	*pain50		drlamarine/painmed
 $playeralias	Marine	male	*pain25		drlamarine/painhi
 $playersound	Marine	male	*grunt		mroof
-$playersound	Marine	male	*land		TCOOF
+$playersound	Marine	male	*land		mrland
 $playersound	Marine	male	*jump		mrjump
 $playersound	Marine	male	*fist		DSPUNCH
 $playersound	Marine	male	*usefail	rfnoway
@@ -66,13 +66,26 @@ $playersound	Technician	male	*fist		DSPUNCH
 $playersound	Technician	male	*usefail	rfnoway
 $playersound	Technician	male	*falling	TCFALLIN
 
+//RENEGADE
+$playersound	Renegade	male	*death		DSRENDTH
+$playersound	Renegade	male	*xdeath		DSRENDTH
+$playersound	Renegade	male	*gibbed		DSSLOP
+$playeralias	Renegade	male	*pain100	renegade/pain
+$playersounddup	Renegade	male	*pain75		*pain100
+$playersounddup	Renegade	male	*pain50		*pain100
+$playersounddup	Renegade	male	*pain25		*pain100
+$playersound	Renegade	male	*grunt		DSRENOOF
+$playersound	Renegade	male	*land		DSRNLAND
+$playersound	Renegade	male	*jump		DSRNJUMP
+$playersound	Renegade	male	*fist		DSPUNCH
+$playersound	Renegade	male	*usefail	rfnoway
+$playersound	Renegade	male	*falling	TCFALLIN
 
 //DEMOLITIONIST
 $playersound	Demolitionist	male	*death		dmdeath
 $playersound	Demolitionist	male	*xdeath		dmdiehi
 $playersound	Demolitionist	male	*gibbed		DSSLOP
-$random drlaDemolitionist/pain { drlaDemolitionist/pain1 drlaDemolitionist/pain2 drlaDemolitionist/pain3 drlaDemolitionist/pain4 drlaDemolitionist/pain5 }
-drlaDemolitionist/pain1 dmpain1
+$random drlaDemolitionist/pain { drlaDemolitionist/pain2 drlaDemolitionist/pain3 drlaDemolitionist/pain4 drlaDemolitionist/pain5 }
 drlaDemolitionist/pain2 dmpain2
 drlaDemolitionist/pain3 dmpain3
 drlaDemolitionist/pain4 dmpain4
@@ -81,8 +94,8 @@ $playeralias	Demolitionist	male	*pain100	drlaDemolitionist/pain
 $playersounddup	Demolitionist	male	*pain75		*pain100
 $playersounddup	Demolitionist	male	*pain50		*pain100
 $playersounddup	Demolitionist	male	*pain25		*pain100
-$playersound	Demolitionist	male	*grunt		dmoof
-$playersounddup	Demolitionist	male	*land		*grunt
+$playersound	Demolitionist	male	*grunt		dmpain1
+$playersound	Demolitionist	male	*land		dmoof
 $playersound	Demolitionist	male	*jump		dmjump
 $playersound	Demolitionist	male	*fist		DSPUNCH
 $playersound	Demolitionist	male	*usefail	rfnoway
