@@ -11,7 +11,6 @@ dstekfs*.flac - Quake 3 Arena, TankJR's footsteps because the whirring mechanica
 CPAYOUT.flac - Half-Life 2 and Tom Clancy's Rainbow Six: Rogue Spear.
 CREDGET.flac - Oni.
 HEALUP.flac - Killing Floor.
-MISSGET.flac - Forsaken.
 TELERIFT.flac - Quake 2 (combination of two sounds)
 transfer.flac - ?
 
@@ -49,6 +48,29 @@ msncmp18.flac - Gorky 17 (Odium).
 msncmp19.flac - SpikeOut: Battle Street.
 msncmp20.flac - Xybots.
 msncmp21.flac - SiN.
+
+\sounds\DoomRPG\Missiongets\
+misget01.flac - Super Mario Land.
+misget02.flac - Galaga '88.
+misget03.flac - Mr. Do!
+misget04.flac - 19XX: The War Against Destiny.
+misget05.flac - Pirate Ship Higemaru.
+misget06.flac - Olmang Jolmang Paradise.
+misget07.flac - Super Street Fighter II.
+misget08.flac - The Speed Rumbler.
+misget09.flac - Vectrex BIOS.
+misget10.flac - F-1 Spirit (MSX2).
+misget11.flac - Ghouls 'n' Ghosts.
+misget12.flac - The Binding of Isaac.
+misget13.flac - Gorky 17.
+misget14.flac - Kirby's Adventure (What's Pink And Sucks?)
+misget15.flac - Major Stryker.
+misget16.flac - Super Smash Bros.
+misget17.flac - Mega Man 2.
+misget18.flac - Mercs.
+misget19.flac - Forsaken.
+misget20.flac - Forsaken.
+misget21.flac - Nintendo Wii Forecast Channel.
 
 \sounds\DoomRPG\Secrets\
 secret01.flac - SpikeOut: Battle Street.

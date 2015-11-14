@@ -302,3 +302,26 @@ ww/secret10 secret10
 ww/secret11 secret11
 ww/secret12 secret12
 ww/secret13 secret13
+
+$random mission/get { ww/missget01 ww/missget02 ww/missget03 ww/missget04 ww/missget05 ww/missget06 ww/missget07 ww/missget08 ww/missget09 ww/missget10 ww/missget11 ww/missget12 ww/missget13 ww/missget14 ww/missget15 ww/missget16 ww/missget17 ww/missget18 ww/missget19 ww/missget20 ww/missget21 }
+ww/missget01 misget01
+ww/missget02 misget02
+ww/missget03 misget03
+ww/missget04 misget04
+ww/missget05 misget05
+ww/missget06 misget06
+ww/missget07 misget07
+ww/missget08 misget08
+ww/missget09 misget09
+ww/missget10 misget10
+ww/missget11 misget11
+ww/missget12 misget12
+ww/missget13 misget13
+ww/missget14 misget14
+ww/missget15 misget15
+ww/missget16 misget16
+ww/missget17 misget17
+ww/missget18 misget18
+ww/missget19 misget19
+ww/missget20 misget20
+ww/missget21 misget21
