@@ -288,20 +288,92 @@ ww/missioncomplete19 msncmp19
 ww/missioncomplete20 msncmp20
 ww/missioncomplete21 msncmp21
 
-$random misc/secret { ww/secret1 ww/secret2 ww/secret3 ww/secret4 ww/secret5 ww/secret6 ww/secret7 ww/secret8 ww/secret9 ww/secret10 ww/secret11 ww/secret12 ww/secret13 }
-ww/secret1 secret01
-ww/secret2 secret02
-ww/secret3 secret03
-ww/secret4 secret04
-ww/secret5 secret05
-ww/secret6 secret06
-ww/secret7 secret07
-ww/secret8 secret08
-ww/secret9 secret09
-ww/secret10 secret10
-ww/secret11 secret11
-ww/secret12 secret12
-ww/secret13 secret13
+$random misc/secret {
+secret01
+secret02
+secret03
+secret04
+secret05
+secret06
+secret07
+secret08
+secret09
+secret10
+secret11
+secret12
+secret13
+secret14
+secret15
+secret16
+secret17
+secret18
+secret19
+secret20
+secret21
+secret22
+secret23
+secret24
+secret25
+secret26
+secret27
+secret28
+secret29
+secret30
+secret31
+secret32
+secret33
+secret34
+secret35
+secret36
+secret37
+secret38
+secret39
+secret40
+secret41
+secret42
+}
+secret01 secret01 
+secret02 secret02 
+secret03 secret03 
+secret04 secret04 
+secret05 secret05 
+secret06 secret06 
+secret07 secret07 
+secret08 secret08 
+secret09 secret09 
+secret10 secret10 
+secret11 secret11 
+secret12 secret12 
+secret13 secret13 
+secret14 secret14 
+secret15 secret15 
+secret16 secret16 
+secret17 secret17 
+secret18 secret18 
+secret19 secret19 
+secret20 secret20 
+secret21 secret21 
+secret22 secret22 
+secret23 secret23 
+secret24 secret24 
+secret25 secret25 
+secret26 secret26 
+secret27 secret27 
+secret28 secret28 
+secret29 secret29 
+secret30 secret30 
+secret31 secret31 
+secret32 secret32 
+secret33 secret33 
+secret34 secret34 
+secret35 secret35 
+secret36 secret36 
+secret37 secret37 
+secret38 secret38 
+secret39 secret39 
+secret40 secret40 
+secret41 secret41 
+secret42 secret42 
 
 $random mission/get { ww/missget01 ww/missget02 ww/missget03 ww/missget04 ww/missget05 ww/missget06 ww/missget07 ww/missget08 ww/missget09 ww/missget10 ww/missget11 ww/missget12 ww/missget13 ww/missget14 ww/missget15 ww/missget16 ww/missget17 ww/missget18 ww/missget19 ww/missget20 ww/missget21 }
 ww/missget01 misget01
