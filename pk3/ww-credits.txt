@@ -192,6 +192,8 @@ dsuacrif.flac - Syphon Filter (edited).
 dsbulrf*.flac - Metal Gear Solid 3.
 \Chaingun\
 dschain1.flac - Resident Evil 4 (firing) and Doom 3 (mechanical noise).
+\Chameleon\
+dschamf* - Killing Floor IJC Weapon Pack, System Shock 2, Wolfenstein 3D Mac.
 \HighpowerBattleRifle\
 dshpbrot.flac - Killing Floor?
 dshpbrin.flac - Killing Floor?
