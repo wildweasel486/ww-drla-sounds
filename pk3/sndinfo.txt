@@ -162,10 +162,8 @@ shellload2 dsshtlo2
 shellload3 dsshtlo3
 
 // This one doesn't affect DRLA but it'll make the chaingun sound different in "vanilla"
-$random weapons/chngun { ww/chaingun1 ww/chaingun2 ww/chaingun3 }
-ww/chaingun1 dschain1
-ww/chaingun2 dschain2
-ww/chaingun3 dschain3
+weapons/chaingun dschain1
+weapons/chngun dschain1
 
 weapons/assaultshotgun				dsasssht
 weapons/heavyassaultshotgun			dshassht
