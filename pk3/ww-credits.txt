@@ -2,7 +2,7 @@ Credits for sounds used in this pack and explanations for how I compiled them.
 !!NOTE!! - This credits list may be very behind! I should really be updating it more frequently so I don't forget where shit came from.
 
 \sounds\
-dssecret.flac - Star Wars: Dark Forces 2: Jedi Knight. (Probably unused now due to recent changes)
+dsswish - Medal of Honor: Pacific Assault.
 
 \sounds\boots\
 dstekfs*.flac - Quake 3 Arena, TankJR's footsteps because the whirring mechanical noises were irritating.
@@ -73,19 +73,49 @@ misget20.flac - Forsaken.
 misget21.flac - Nintendo Wii Forecast Channel.
 
 \sounds\DoomRPG\Secrets\
-secret01.flac - SpikeOut: Battle Street.
-secret02.flac - Loom.
-secret03.flac - Crimson Shroud.
-secret04.flac - Dragon's Fury (Devil Crash MD).
-secret05.flac - Beyond Oasis.
-secret06.flac - Columns III.
-secret07.flac - Kirby's Dream Land 3.
-secret08.flac - Kirby's Dream Land 3.
-secret09.flac - Off The Wall (Atari Games).
-secret10.flac - Seiken Densetsu 3 (Secret of Mana 2).
-secret11.flac - Super Tetris 2.
-secret12.flac - Wild Guns.
-secret13.flac - Star Wars: Dark Forces 2: Jedi Knight.
+Copy-pasted from ww-mixed3.txt:
+1 - SpikeOut: Battle Street
+2 - LOOM (MT-32 version)
+3 - Crimson Shroud
+4 - Devil Crash MD/Dragon's Fury
+5 - Beyond Oasis
+6 - Columns III: Revenge of Columns
+7 - Kirby's Dream Land 3
+8 - ""
+9 - Off The Wall (Atari)
+10 - Seiken Densetsu 3
+11 - Super Tetris 2 + Bombliss
+12 - Wild Guns
+13 - Star Wars: Dark Forces II: Jedi Knight
+14 - Unknown FreeSound.org sound (ww-cash2)
+15 - Forsaken
+16 - Fire Emblem: Genealogy of the Holy War
+17 - Wolfenstein 3D: Spear of Destiny
+18 - Street Fighter: The Movie (Arcade)
+19 - No One Lives Forever
+20 - Law & Order
+21 - They Might Be Giants (Critic Intro, from album "Giants Jubilee")
+22 - TADA.wav from Windows 3.1
+23 - Startup sound from Power Macintosh 8100
+24 - Startup sound from Macintosh Quadra
+25 - From an old version of KDE
+26 - Street Fighter Alpha 3
+27 - "Squares" Flash game
+28 - Sunset Riders (Arcade)
+29 - Xybots
+20 - Full Tilt! Pinball (Space Cadet table)
+31 - Command & Conquer: Red Alert
+32 - Xargon
+33 - Phoenix Wright: Ace Attorney
+34 - Jill of the Jungle
+35 - Indeterminate (found in "007: The Spy Who Loved Me" Amiga soundtrack)
+36 - Indeterminate (found in many, many Amiga MOD files)
+37 - Crimsonland
+38 - Descent II
+39 - Deus Ex
+40 - ""
+41 - Die Hard Trilogy
+42 - Soldier of Fortune 2
 
 \sounds\explosives\
 dsrlaunc.flac - Half-Life 2's RPG.
@@ -159,14 +189,30 @@ dspshtgn.flac - System Shock 2, EMP firing sound.
 brload*.flac - Freesound.org, courtesy of Yzhamua and NoiseCollector.
 dshpuacr.flac - Killing Floor, M4 single-fire sound.
 dsuacrif.flac - Alliance of Valiant Arms.
+\BulletstormRifle\
 dsbulrf*.flac - Metal Gear Solid 3.
 \Chaingun\
 dschain*.flac - Combination of stock gunfire sound plus machinegun firing and mechanical noises from Doom 3.
+\HighpowerBattleRifle\
+dshpbrot.flac - Killing Floor?
+dshpbrin.flac - Killing Floor?
+dshpbrck.flac - Freesound.org?
+dshpuacr.flac - Killing Floor.
+\HighpowerChaingun\
+dshpchai - Blood II: The Chosen.
+\RCP90\
+dsrcp9* - Stock sound libraries (GoldenEye).
+dsrcp120 - Stock sound libraries (GoldenEye and Perfect Dark).
+\SilencedRifle\
+strifl* - Tom Clancy's Rainbow Six: Raven Shield.
 \Uzi\
 dsuzifir.flac - Alliance of Valiant Arms.
 dshpuzif.flac - ?
 dsuziout.flac - Killing Floor.
 dsuziin.flac - Killing Floor.
+\Vanguard\
+dsvanrif - Soldier of Fortune 2 (edited).
+dshpvanr - Soldier of Fortune.
 
 \sounds\shotguns\
 \assaultshotgun\
@@ -207,13 +253,3 @@ hmkrifot.flac - ?
 Mrkrifht.flac - Freesound.org courtesy of Yzhamua and NoiseCollector.
 Mrkrifin.ogg - Freesound.org courtesy of Yzhamua and NoiseCollector.
 Mrkrifot.ogg - Freesound.org courtesy of Yzhamua and NoiseCollector.
-
-
-
-
-
-
-\music\
-outpost1.flac - Command & Conquer MS-DOS installer ambience.
-
-Thanks for actually reading this. -ww
