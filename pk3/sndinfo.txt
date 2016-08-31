@@ -144,6 +144,7 @@ weapons/uziload						dsuziin
 $alias weapons/stormuziload					weapons/uziload
 $alias weapons/stormuziunload				weapons/uziunload
 
+weapons/battlerifle                 dsuacrif
 weapons/battlerifleunload			brload1
 weapons/battlerifleload				brload2
 
