@@ -117,6 +117,26 @@ Copy-pasted from ww-mixed3.txt:
 41 - Die Hard Trilogy
 42 - Soldier of Fortune 2
 
+\sounds\inventory\MasterAssemblies\
+MASASS01 - Michael Jackson's Moonwalker (Arcade)
+MASASS02 - Wally wo Sagase! (Arcade)
+MASASS03 - Commander Keen 6: Aliens Ate My Babysitter!
+MASASS04 - Ys Book I & II (TG16)
+MASASS05 - The Speed Rumbler (Arcade)
+MASASS06 - Warrior Blade: Rastan Saga Episode III
+MASASS07 - Metal Gear Ac!d 2
+MASASS08 - Mario Artist Talent Studio
+MASASS09 - Suikoden
+MASASS10 - Sam Spence - Music From NFL Films
+MASASS11 - flashygoodness - Super Secret Service OST
+MASASS12 - Metal Gear Solid 3
+MASASS13 - Metal Gear Solid 3
+MASASS14 - Ninja Five-O
+MASASS15 - Shining Force: Resurrection of the Dark Dragon
+MASASS16 - Sonic Spinball
+MASASS17 - John Madden Football (Sega Genesis)
+MASASS18 - D.D. Crew (Arcade)
+
 \sounds\explosives\
 dsrlaunc.flac - Half-Life 2's RPG.
 
@@ -169,6 +189,8 @@ DSSILENC.flac - Tom Clancy's Rainbox Six 3: Raven Shield
 DSSILEOT.flac - Freesound.org, unknown source
 DSSILEIN.flac - ""
 DSSILECK.flac - ""
+\storm\
+DSSTORMP - Medal of Honor: Pacific Assault and unknown Freesound source
 
 \sounds\plasma\
 \blaster\
