@@ -201,6 +201,10 @@ DSSTORMP - Medal of Honor: Pacific Assault and unknown Freesound source
 \blaster\
 dsblasth - Mechwarrior 4, medium pulse laser (edited).
 dsblastr - Mechwarrior 4, small pulse laser (edited).
+dsblast2 - Mechwarrior 4, System Shock 2.
+dsblast3 - Mechwarrior 4, System Shock 2.
+dsblast4 - Mechwarrior 4, System Shock 2.
+dsblast5 - Mechwarrior 4, City of Heroes.
 \laserrifle\
 dslaserf - Starsiege: Tribes, laser rifle firing sound.
 \plasmapistol\

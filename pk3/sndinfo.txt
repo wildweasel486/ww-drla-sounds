@@ -113,6 +113,12 @@ weapons/silencedpistolcock			DSSILECK
 
 weapons/blaster						dsblastr
 
+weapons/heavypulseblaster1			dsblastr
+weapons/heavypulseblaster2			dsblast2
+weapons/heavypulseblaster3			dsblast3
+weapons/heavypulseblaster4			dsblast4
+weapons/heavypulseblaster5          dsblast5
+
 weapons/handcannonunload			dsdeagot
 weapons/handcannonload				dsdeagin
 weapons/handcannoncock				dsdeagck
