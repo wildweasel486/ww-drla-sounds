@@ -221,6 +221,9 @@ dsbulrf* - Metal Gear Solid 3.
 dschain1 - Resident Evil 4 (firing) and Doom 3 (mechanical noise).
 \Chameleon\
 dschamf* - Killing Floor IJC Weapon Pack, System Shock 2, Wolfenstein 3D Mac.
+\DemolitionAmmo\
+DMCHGUN - Descent 2, Quake 2, Doom 3, Black Mesa
+DMBATRIF - Black Mesa
 \HighpowerBattleRifle\
 dshpbrot - Killing Floor?
 dshpbrin - Killing Floor?

@@ -166,6 +166,9 @@ shellload3 dsshtlo3
 weapons/chaingun dschain1
 weapons/chngun dschain1
 
+weapons/demobattlerifle             DMBATRIF
+weapons/demochaingun                DMCHGUN
+
 weapons/assaultshotgun				dsasssht
 weapons/heavyassaultshotgun			dshassht
 
@@ -221,7 +224,6 @@ $alias weapons/burstbattlerifle				weapons/battlerifle
 $alias weapons/burstbattlerifleunload		weapons/battlerifleunload
 $alias weapons/burstbattlerifleload			weapons/battlerifleload
 $alias weapons/nanobattlerifle				weapons/battlerifle
-$alias weapons/demobattlerifle				weapons/battlerifle
 $alias weapons/demobattlerifleunload		weapons/battlerifleunload
 $alias weapons/demobattlerifleload			weapons/battlerifleload
 
