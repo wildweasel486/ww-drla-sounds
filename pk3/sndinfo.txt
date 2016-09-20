@@ -244,6 +244,10 @@ weapons/hpbattlerifleload			DSHPBRIN
 weapons/sniperrifleload				DSSNIPLD
 weapons/sniperrifleunload			DSSNIPUL
 
+weapons/grenadelauncheropen			DSGRNOPN
+weapons/grenadelauncherload			DSGRNLOD
+weapons/grenadelauncherclose		DSGRNCLS
+
 //For 1.02, make the shockwave boots louder.
 $volume steps/techstep 0.25
 

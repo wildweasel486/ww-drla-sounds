@@ -5,72 +5,72 @@ Credits for sounds used in this pack and explanations for how I compiled them.
 dsswish - Medal of Honor: Pacific Assault.
 
 \sounds\boots\
-dstekfs*.flac - Quake 3 Arena, TankJR's footsteps because the whirring mechanical noises were irritating.
+dstekfs* - Quake 3 Arena, TankJR's footsteps because the whirring mechanical noises were irritating.
 
 \sounds\DoomRPG\
-CPAYOUT.flac - Half-Life 2 and Tom Clancy's Rainbow Six: Rogue Spear.
-CREDGET.flac - Oni.
-HEALUP.flac - Killing Floor.
-TELERIFT.flac - Quake 2 (combination of two sounds)
-transfer.flac - ?
+CPAYOUT - Half-Life 2 and Tom Clancy's Rainbow Six: Rogue Spear.
+CREDGET - Oni.
+HEALUP - Killing Floor.
+TELERIFT - Quake 2 (combination of two sounds)
+transfer - ?
 
 \sounds\DoomRPG\levelup\
-levlup01.flac - Dimahoo.
-levlup02.flac - ZZT.
-levlup03.flac - Fire Emblem 4: Genealogy of the Holy War.
-levlup04.flac - Wetrix.
-levlup05.flac - Final Fantasy XII.
-levlup06.flac - Crimsonland.
-levlup07.flac - Wolfenstein: Enemy Territory.
-levlup08.flac - Wolfenstein: Enemy Territory.
-levlup09.flac - Tactics Ogre: Let Us Cling Together (SNES ver.)
-levlup10.flac - The Elder Scrolls IV: Oblivion.
+levlup01 - Dimahoo.
+levlup02 - ZZT.
+levlup03 - Fire Emblem 4: Genealogy of the Holy War.
+levlup04 - Wetrix.
+levlup05 - Final Fantasy XII.
+levlup06 - Crimsonland.
+levlup07 - Wolfenstein: Enemy Territory.
+levlup08 - Wolfenstein: Enemy Territory.
+levlup09 - Tactics Ogre: Let Us Cling Together (SNES ver.)
+levlup10 - The Elder Scrolls IV: Oblivion.
 
 \sounds\DoomRPG\Missions\
-msncmp01.flac - Metal Morph (Pauly Shore?).
-msncmp02.flac - SpikeOut: Battle Street.
-msncmp03.flac - Dimahoo.
-msncmp04.flac - Gears (Shockwave.com).
-msncmp05.flac - Spanky's Quest.
-msncmp06.flac - PilotWings.
-msncmp07.flac - Secret of Evermore.
-msncmp08.flac - Shining Force II.
-msncmp09.flac - Earthbound.
-msncmp10.flac - Gain Ground.
-msncmp11.flac - Battletoads.
-msncmp12.flac - Metal Gear Ac!d 2.
-msncmp13.flac - Rampart.
-msncmp14.flac - Super Bombliss.
-msncmp15.flac - Tetris & Dr. Mario (SNES).
-msncmp16.flac - Earthbound.
-msncmp17.flac - Dr. Robotnik's Mean Bean Machine (Puyo-Puyo).
-msncmp18.flac - Gorky 17 (Odium).
-msncmp19.flac - SpikeOut: Battle Street.
-msncmp20.flac - Xybots.
-msncmp21.flac - SiN.
+msncmp01 - Metal Morph (Pauly Shore?).
+msncmp02 - SpikeOut: Battle Street.
+msncmp03 - Dimahoo.
+msncmp04 - Gears (Shockwave.com).
+msncmp05 - Spanky's Quest.
+msncmp06 - PilotWings.
+msncmp07 - Secret of Evermore.
+msncmp08 - Shining Force II.
+msncmp09 - Earthbound.
+msncmp10 - Gain Ground.
+msncmp11 - Battletoads.
+msncmp12 - Metal Gear Ac!d 2.
+msncmp13 - Rampart.
+msncmp14 - Super Bombliss.
+msncmp15 - Tetris & Dr. Mario (SNES).
+msncmp16 - Earthbound.
+msncmp17 - Dr. Robotnik's Mean Bean Machine (Puyo-Puyo).
+msncmp18 - Gorky 17 (Odium).
+msncmp19 - SpikeOut: Battle Street.
+msncmp20 - Xybots.
+msncmp21 - SiN.
 
 \sounds\DoomRPG\Missiongets\
-misget01.flac - Super Mario Land.
-misget02.flac - Galaga '88.
-misget03.flac - Mr. Do!
-misget04.flac - 19XX: The War Against Destiny.
-misget05.flac - Pirate Ship Higemaru.
-misget06.flac - Olmang Jolmang Paradise.
-misget07.flac - Super Street Fighter II.
-misget08.flac - The Speed Rumbler.
-misget09.flac - Vectrex BIOS.
-misget10.flac - F-1 Spirit (MSX2).
-misget11.flac - Ghouls 'n' Ghosts.
-misget12.flac - The Binding of Isaac.
-misget13.flac - Gorky 17.
-misget14.flac - Kirby's Adventure (What's Pink And Sucks?)
-misget15.flac - Major Stryker.
-misget16.flac - Super Smash Bros.
-misget17.flac - Mega Man 2.
-misget18.flac - Mercs.
-misget19.flac - Forsaken.
-misget20.flac - Forsaken.
-misget21.flac - Nintendo Wii Forecast Channel.
+misget01 - Super Mario Land.
+misget02 - Galaga '88.
+misget03 - Mr. Do!
+misget04 - 19XX: The War Against Destiny.
+misget05 - Pirate Ship Higemaru.
+misget06 - Olmang Jolmang Paradise.
+misget07 - Super Street Fighter II.
+misget08 - The Speed Rumbler.
+misget09 - Vectrex BIOS.
+misget10 - F-1 Spirit (MSX2).
+misget11 - Ghouls 'n' Ghosts.
+misget12 - The Binding of Isaac.
+misget13 - Gorky 17.
+misget14 - Kirby's Adventure (What's Pink And Sucks?)
+misget15 - Major Stryker.
+misget16 - Super Smash Bros.
+misget17 - Mega Man 2.
+misget18 - Mercs.
+misget19 - Forsaken.
+misget20 - Forsaken.
+misget21 - Nintendo Wii Forecast Channel.
 
 \sounds\DoomRPG\Secrets\
 Copy-pasted from ww-mixed3.txt:
@@ -95,7 +95,7 @@ Copy-pasted from ww-mixed3.txt:
 19 - No One Lives Forever
 20 - Law & Order
 21 - They Might Be Giants (Critic Intro, from album "Giants Jubilee")
-22 - TADA.wav from Windows 3.1
+22 - TADA from Windows 3.1
 23 - Startup sound from Power Macintosh 8100
 24 - Startup sound from Macintosh Quadra
 25 - From an old version of KDE
@@ -138,89 +138,94 @@ MASASS17 - John Madden Football (Sega Genesis)
 MASASS18 - D.D. Crew (Arcade)
 
 \sounds\explosives\
-dsrlaunc.flac - Half-Life 2's RPG.
+dsrlaunc - Half-Life 2's RPG.
+\GrenadeLauncher\
+DSGRNOPN - Halo Reach.
+DSGRNLOD - Desert Crisis (Half-Life mod).
+DSGRNCLS - Halo Reach.
+DSGRENBO - Quake (modified).
 
 \sounds\pistols\
 \combatpistol\
-dscompis.flac - Killing Floor, Thompson SMG single-fire mode.
-dshpcomp.flac - Killing Floor, Mk23 pistol.
+dscompis - Killing Floor, Thompson SMG single-fire mode.
+dshpcomp - Killing Floor, Mk23 pistol.
 \grammaton\
-dsgcbfir.flac - Soldier of Fortune 2, M1911A1 firing sound.
-dsgcbhit.flac - ?
-dsgcbin.flac - Soldier of Fortune?
-dsgcbmod.flac - Soldier of Fortune 2, M1911A1 raising sound.
-dsgcbout.flac - Alliance of Valiant Arms, M50 reload sound(?).
+dsgcbfir - Soldier of Fortune 2, M1911A1 firing sound.
+dsgcbhit - ?
+dsgcbin - Soldier of Fortune?
+dsgcbmod - Soldier of Fortune 2, M1911A1 raising sound.
+dsgcbout - Alliance of Valiant Arms, M50 reload sound(?).
 \handcannon\
-dsdeagck.flac - ?
-dsdeagin.flac - ?
-dsdeagle.flac - Stock sound library, most recognizably Goldeneye 007's Cougar Magnum (but much higher quality)
-dsdeagot.flac - ?
-dshpdeag.flac - Killing Floor, Handcannon firing sound.
+dsdeagck - ?
+dsdeagin - ?
+dsdeagle - Stock sound library, most recognizably Goldeneye 007's Cougar Magnum (but much higher quality)
+dsdeagot - ?
+dshpdeag - Killing Floor, Handcannon firing sound.
 \huntingrevolver\
-dshunrev.flac - Killing Floor, Revolver.
-dshphrev.ogg - Killing Floor IJC Weapon Pack, FN FAL.
+dshunrev - Killing Floor, Revolver.
+dshphrev - Killing Floor IJC Weapon Pack, FN FAL.
 \jackal\
-dsjackal.flac - Soldier of Fortune 2, Silver Talon firing sound.
+dsjackal - Soldier of Fortune 2, Silver Talon firing sound.
 \marksman\
-dshpmkps.flac - Medal of Honor: Pacific Assault.
-hpmkpsot.flac - Max Payne 2.
-hpmkpsin.flac - Max Payne 2.
-hpmkpsck.flac - Max Payne 2.
-dsmrkpis.flac - Medal of Honor: Pacific Assault and Red Faction (combined).
-mkpsot.flac - Action Unreal Tournament.
-mkpsin.flac - Action Unreal Tournament.
-mkpsck.flac - Action Unreal Tournament.
+dshpmkps - Medal of Honor: Pacific Assault.
+hpmkpsot - Max Payne 2.
+hpmkpsin - Max Payne 2.
+hpmkpsck - Max Payne 2.
+dsmrkpis - Medal of Honor: Pacific Assault and Red Faction (combined).
+mkpsot - Action Unreal Tournament.
+mkpsin - Action Unreal Tournament.
+mkpsck - Action Unreal Tournament.
 \pistol\
-dsglkck.flac - Freesound.org, unknown source (will dig up later)
-dsglkin.flac - Combination of reload sounds from System Shock 2 and Return to Castle Wolfenstein.
-dsglkout.flac - Combination of reload sounds from System Shock 2 and Return to Castle Wolfenstein.
-dshppist.flac - Killing Floor, 9mm Handgun firing sound.
-dspistol.flac - Resident Evil 4.
+dsglkck - Freesound.org, unknown source (will dig up later)
+dsglkin - Combination of reload sounds from System Shock 2 and Return to Castle Wolfenstein.
+dsglkout - Combination of reload sounds from System Shock 2 and Return to Castle Wolfenstein.
+dshppist - Killing Floor, 9mm Handgun firing sound.
+dspistol - Resident Evil 4.
 \pp7\
-DSPP7.flac - Unknown stock sounds library (high-quality version of sound used in Goldeneye N64)
-DSHPPP7.flac - ""
+DSPP7 - Unknown stock sounds library (high-quality version of sound used in Goldeneye N64)
+DSHPPP7 - ""
 \revolver\
-DSMAGNUM.flac - Unreal II: The Awakening
-DSMAGIN.flac - ? (Counter-Strike replacement model?)
-DSMAGOUT.flac - ""
-DSMAGOPN.flac - ""
+DSMAGNUM - Unreal II: The Awakening
+DSMAGIN - ? (Counter-Strike replacement model?)
+DSMAGOUT - ""
+DSMAGOPN - ""
 \silenced\
-DSSILENC.flac - Tom Clancy's Rainbox Six 3: Raven Shield
-DSSILEOT.flac - Freesound.org, unknown source
-DSSILEIN.flac - ""
-DSSILECK.flac - ""
+DSSILENC - Tom Clancy's Rainbox Six 3: Raven Shield
+DSSILEOT - Freesound.org, unknown source
+DSSILEIN - ""
+DSSILECK - ""
 \storm\
 DSSTORMP - Medal of Honor: Pacific Assault and unknown Freesound source
 
 \sounds\plasma\
 \blaster\
-dsblasth.flac - Mechwarrior 4, medium pulse laser (edited).
-dsblastr.flac - Mechwarrior 4, small pulse laser (edited).
+dsblasth - Mechwarrior 4, medium pulse laser (edited).
+dsblastr - Mechwarrior 4, small pulse laser (edited).
 \laserrifle\
-dslaserf.flac - Starsiege: Tribes, laser rifle firing sound.
+dslaserf - Starsiege: Tribes, laser rifle firing sound.
 \plasmapistol\
-dsplaspi.flac - Starsiege: Tribes, blaster pistol firing sound.
+dsplaspi - Starsiege: Tribes, blaster pistol firing sound.
 \plasmarifle\
-dshpplas.flac - System Shock 2, laser pistol firing sound.
-dsplasma.flac - Quake 2, blaster firing sound.
+dshpplas - System Shock 2, laser pistol firing sound.
+dsplasma - Quake 2, blaster firing sound.
 \plasmashotgun\
-dspshtgn.flac - System Shock 2, EMP firing sound.
+dspshtgn - System Shock 2, EMP firing sound.
 
 \sounds\rapidfire\
 \Battlerifle\
-brload*.flac - Freesound.org, courtesy of Yzhamua and NoiseCollector.
-dsuacrif.flac - Syphon Filter (edited).
+brload* - Freesound.org, courtesy of Yzhamua and NoiseCollector.
+dsuacrif - Syphon Filter (edited).
 \BulletstormRifle\
-dsbulrf*.flac - Metal Gear Solid 3.
+dsbulrf* - Metal Gear Solid 3.
 \Chaingun\
-dschain1.flac - Resident Evil 4 (firing) and Doom 3 (mechanical noise).
+dschain1 - Resident Evil 4 (firing) and Doom 3 (mechanical noise).
 \Chameleon\
 dschamf* - Killing Floor IJC Weapon Pack, System Shock 2, Wolfenstein 3D Mac.
 \HighpowerBattleRifle\
-dshpbrot.flac - Killing Floor?
-dshpbrin.flac - Killing Floor?
-dshpbrck.flac - Freesound.org?
-dshpuacr.flac - Killing Floor.
+dshpbrot - Killing Floor?
+dshpbrin - Killing Floor?
+dshpbrck - Freesound.org?
+dshpuacr - Killing Floor.
 \HighpowerChaingun\
 dshpchai - Blood II: The Chosen.
 \RCP90\
@@ -229,50 +234,51 @@ dsrcp120 - Stock sound libraries (GoldenEye and Perfect Dark).
 \SilencedRifle\
 strifl* - Tom Clancy's Rainbow Six: Raven Shield.
 \Uzi\
-dsuzifir.flac - Alliance of Valiant Arms.
-dshpuzif.flac - ?
-dsuziout.flac - Killing Floor.
-dsuziin.flac - Killing Floor.
+dsuzifir - Alliance of Valiant Arms.
+dshpuzif - ?
+dsuziout - Killing Floor.
+dsuziin - Killing Floor.
 \Vanguard\
 dsvanrif - Soldier of Fortune 2 (edited).
 dshpvanr - Soldier of Fortune.
 
 \sounds\shotguns\
 \assaultshotgun\
-dsasssht.flac - Tom Clancy's Rainbow Six: Raven Shield.
-dshassht.flac - Max Payne 2.
+dsasssht - Tom Clancy's Rainbow Six: Raven Shield.
+dshassht - Max Payne 2.
 \combatshotgun\
-dssgpump.flac - Soldier of Fortune.
+dssgpump - Soldier of Fortune.
 \doubleshotgun\
-dsdbcls.flac - The Specialists.
-dsdbload.flac - Resident Evil 4.
-dsdbopn.flac - Quake 3 Arena.
-dsdshtgn.flac - Half-Life 2.
+dsdbcls - Crimsonland.
+dsdbload - Crimsonland.
+dsdbopn - Crimsonland.
+dsdshtgn - Half-Life 2.
+dsdshtgs - Half-Life 2.
 \heavyshotgun\
-hshotf*.flac - Borderlands.
-shotpump.flac - Medal of Honor: Pacific Assault.
+hshotf* - Borderlands.
+shotpump - Medal of Honor: Pacific Assault.
 \jackhammer\
-jackfi*.flac - ? (sourced from ww-cash2.pk3)
+jackfi* - ? (sourced from ww-cash2.pk3)
 \shotgun\
-dsshot1.flac - Half-Life 2.
-dsshotgn.flac - From one of Half-Life 2's grenade explosions and a stock sound effect. I intended to recreate the shotgun sound from STRAIN.wad in higher quality.
-dsshotp2.flac - Stock sound effect (Goldeneye reload), slightly faster.
+dsshot1 - Half-Life 2.
+dsshotgn - From one of Half-Life 2's grenade explosions and a stock sound effect. I intended to recreate the shotgun sound from STRAIN.wad in higher quality.
+dsshotp2 - Stock sound effect (Goldeneye reload), slightly faster.
 \tacticalshotgun\
-dstacin.flac - Killing Floor, AA12 reload.
-dstacout.flac - ""
-dstacsho.flac - Killing Floor.
+dstacin - Killing Floor, AA12 reload.
+dstacout - ""
+dstacsho - Killing Floor.
 
 \sounds\snipers\
 \sniperrifle\
-dssnipfi.flac - Medal of Honor Allied Assault: Breakthrough and Call of Duty 2.
-dssnipld.flac - ?
-dssnipul.flac - ?
+dssnipfi - Medal of Honor Allied Assault: Breakthrough and Call of Duty 2.
+dssnipld - ?
+dssnipul - ?
 \marksmanrifle\
-dshpmrkr.flac - Soldier of Fortune.
-dsmrkrfi.flac - Soldier of Fortune 2.
-hmkrifht.flac - ?
-hmkrifin.flac - ?
-hmkrifot.flac - ?
-Mrkrifht.flac - Freesound.org courtesy of Yzhamua and NoiseCollector.
-Mrkrifin.ogg - Freesound.org courtesy of Yzhamua and NoiseCollector.
-Mrkrifot.ogg - Freesound.org courtesy of Yzhamua and NoiseCollector.
+dshpmrkr - Soldier of Fortune.
+dsmrkrfi - Soldier of Fortune 2.
+hmkrifht - ?
+hmkrifin - ?
+hmkrifot - ?
+Mrkrifht - Freesound.org courtesy of Yzhamua and NoiseCollector.
+Mrkrifin - Freesound.org courtesy of Yzhamua and NoiseCollector.
+Mrkrifot - Freesound.org courtesy of Yzhamua and NoiseCollector.
