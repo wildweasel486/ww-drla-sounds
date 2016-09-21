@@ -266,6 +266,12 @@ hshotf* - Borderlands.
 shotpump - Medal of Honor: Pacific Assault.
 \jackhammer\
 jackfi* - ? (sourced from ww-cash2.pk3)
+\quadshotgun\
+DSQUAD4X - Action UT.
+DSQUADSH - Action UT.
+DSQSHOTO - Call of Duty 2 and Doom 3.
+DSQSHOTL - Action UT.
+DSQSHOTC - Doom 3 and Goldeneye.
 \shotgun\
 dsshot1 - Half-Life 2.
 dsshotgn - From one of Half-Life 2's grenade explosions and a stock sound effect. I intended to recreate the shotgun sound from STRAIN.wad in higher quality.

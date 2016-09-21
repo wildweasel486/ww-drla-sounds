@@ -199,6 +199,10 @@ ww/jackhammer1 jackfi01
 ww/jackhammer2 jackfi02
 ww/jackhammer3 jackfi03
 
+weapons/quadshotgunopen				DSQSHOTO
+weapons/quadshotgunload				DSQSHOTL
+weapons/quadshotgunclose			DSQSHOTC
+
 weapons/hpblaster					dsblasth
 
 weapons/hpuzi						dshpuzif
