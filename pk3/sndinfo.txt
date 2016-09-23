@@ -154,6 +154,8 @@ weapons/battlerifle                 dsuacrif
 weapons/battlerifleunload			brload1
 weapons/battlerifleload				brload2
 
+weapons/bulletstormrifle            dsbulrf1
+
 weapons/gcbunload					dsgcbout
 weapons/gcbload						dsgcbin
 weapons/gcbcock						dsgcbhit

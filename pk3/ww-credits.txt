@@ -220,7 +220,7 @@ dspshtgn - System Shock 2, EMP firing sound.
 brload* - Freesound.org, courtesy of Yzhamua and NoiseCollector.
 dsuacrif - Syphon Filter (edited).
 \BulletstormRifle\
-dsbulrf* - Metal Gear Solid 3.
+dsbulrf1 - Metal Gear Solid 3 (mix of several sounds)
 \Chaingun\
 dschain1 - Resident Evil 4 (firing) and Doom 3 (mechanical noise).
 \Chameleon\
@@ -253,6 +253,10 @@ dshpvanr - Soldier of Fortune.
 \assaultshotgun\
 dsasssht - Tom Clancy's Rainbow Six: Raven Shield.
 dshassht - Max Payne 2.
+\autoshotgun\
+DSAUTOL1 - ZPC, Return to Castle Wolfenstein, MOH: Pacific Assault
+DSAUTOL2 - ZPC
+DSAUTOSG - 007: Nightfire (PC version)
 \combatshotgun\
 dssgpump - Soldier of Fortune.
 \doubleshotgun\
