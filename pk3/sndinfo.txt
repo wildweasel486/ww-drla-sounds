@@ -194,6 +194,10 @@ weapons/focuseddoubleshotgunopen		DSFOCOPN
 weapons/focuseddoubleshotgunload		DSFOCLOD
 weapons/focuseddoubleshotgunclose		DSFOCCLS
 
+weapons/autoshotgun					DSAUTOSG
+weapons/autoshotgununload			DSAUTOL1
+weapons/autoshotgunload				DSAUTOL2
+
 $random weapons/jackhammer { ww/jackhammer1 ww/jackhammer2 ww/jackhammer3 }
 ww/jackhammer1 jackfi01
 ww/jackhammer2 jackfi02
