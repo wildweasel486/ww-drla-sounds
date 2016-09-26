@@ -11,3 +11,5 @@ If running through the DoomRPG Launcher, you will need to add ww-drla-sounds thr
 
 Credits within ww-credits.txt (may be out of date). MUST be loaded AFTER DoomRL Arsenal for full effect.
 (Batch script courtesy of kyle873 and terminusest13, if i remember right.)
+
+-WW <3
