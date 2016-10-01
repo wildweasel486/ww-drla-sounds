@@ -160,6 +160,11 @@ weapons/gcbunload					dsgcbout
 weapons/gcbload						dsgcbin
 weapons/gcbcock						dsgcbhit
 
+weapons/minimissilepistol			dsmmpstl
+weapons/minimissilepistolopen		dsmmpopn
+weapons/minimissilepistolload		dsmmplod
+weapons/minimissilepistolclose		dsmmpcls
+
 weapons/tacticalshotgununload		dstacout
 weapons/tacticalshotgunload			dstacin
 

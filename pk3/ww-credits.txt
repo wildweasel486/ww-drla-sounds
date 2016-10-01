@@ -144,6 +144,8 @@ DSGRNOPN - Halo Reach.
 DSGRNLOD - Desert Crisis (Half-Life mod).
 DSGRNCLS - Halo Reach.
 DSGRENBO - Quake (modified).
+\SmallExplosion\
+DSPIPEX2/3/4 - Crimsonland.
 
 \sounds\pistols\
 \combatpistol\
@@ -175,6 +177,11 @@ dsmrkpis - Medal of Honor: Pacific Assault and Red Faction (combined).
 mkpsot - Action Unreal Tournament.
 mkpsin - Action Unreal Tournament.
 mkpsck - Action Unreal Tournament.
+\minimissile\
+dsmmpstl - Science & Industry (HL1 mod), Tread Marks, Wolfenstein: Enemy Territory
+dsmmpopn - Wolfenstein: Enemy Territory and 13282_schademans_pipe11.wav from freesound.org
+dsmmplod - Wolfenstein: Enemy Territory
+dsmmlcls - Condemned: Criminal Origins
 \pistol\
 dsglkck - Freesound.org, unknown source (will dig up later)
 dsglkin - Combination of reload sounds from System Shock 2 and Return to Castle Wolfenstein.
