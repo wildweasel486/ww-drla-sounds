@@ -290,7 +290,7 @@ dsshotp2 - Stock sound effect (Goldeneye reload), slightly faster.
 \tacticalshotgun\
 dstacin - Killing Floor, AA12 reload.
 dstacout - ""
-dstacsho - Killing Floor.
+dstacsho - Half-Life.
 
 \sounds\snipers\
 \sniperrifle\
