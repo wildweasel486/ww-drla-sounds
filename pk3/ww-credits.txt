@@ -247,6 +247,9 @@ dsrcp9* - Stock sound libraries (GoldenEye).
 dsrcp120 - Stock sound libraries (GoldenEye and Perfect Dark).
 \SilencedRifle\
 strifl* - Tom Clancy's Rainbow Six: Raven Shield.
+\Thompson\
+dstommy - Killing Floor.
+dshptomm - Killing Floor.
 \Uzi\
 dsuzifir - Alliance of Valiant Arms.
 dshpuzif - ?
