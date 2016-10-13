@@ -144,6 +144,7 @@ weapons/hpmarksmanpistolunload	HPMKPSOT
 weapons/hpmarksmanpistolload	HPMKPSIN
 
 weapons/plasmashotgun				dspshtgn
+$alias weapons/nanoplasmashotgun    weapons/plasmashotgun
 
 weapons/uziunload					dsuziout
 weapons/uziload						dsuziin
