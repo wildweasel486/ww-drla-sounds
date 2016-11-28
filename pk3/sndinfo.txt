@@ -278,6 +278,22 @@ $volume steps/techstep 0.25
 //Things I added
 $limit weapons/highpowerplasma 0
 
+// SNDSEQ
+doors/dr1_start DSSL1BGN
+doors/dr1_mid DSSL1MID
+doors/dr1_stop DSSL1END
+
+doors/openquick door1op
+doors/slamquick door1slm
+doors/closequick door1cl
+
+plats/platstart lift1str
+plats/platmove lift2mv
+plats/platstop lift2stp
+
+plats/floormove lift1lp
+plats/floorstop lift1st
+
 // DoomRPG specific stuff
 
 $random misc/levelup { ww/levelup1 ww/levelup2 ww/levelup3 ww/levelup4 ww/levelup5 ww/levelup6 ww/levelup7 ww/levelup8 ww/levelup9 ww/levelup10 }

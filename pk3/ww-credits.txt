@@ -147,6 +147,14 @@ DSGRENBO - Quake (modified).
 \SmallExplosion\
 DSPIPEX2/3/4 - Crimsonland.
 
+\sounds\movers\
+door1* - System Shock 2.
+DSSL1* - Real Myst.
+DSSWTCHN - ?
+DSSWTCHX - ?
+lift1* - Half-Life 2.
+lift2* - Dark Forces 2: Jedi Knight.
+
 \sounds\pistols\
 \combatpistol\
 dscompis - Killing Floor, Thompson SMG single-fire mode.
