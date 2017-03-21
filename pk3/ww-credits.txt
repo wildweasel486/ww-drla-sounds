@@ -117,6 +117,32 @@ Copy-pasted from ww-mixed3.txt:
 41 - Die Hard Trilogy
 42 - Soldier of Fortune 2
 
+\sounds\Legendoom\
+legend01 - Super Mario RPG: Legend of the Seven Stars
+legend02 - Marvel Super Heroes VS Street Fighter
+legend03 - Mario Artist: Talent Studio
+legend04 - Mario Artist: Talent Studio 
+legend05 - Ren & Stimpy Production Music (APM)
+legend06 - Ren & Stimpy Production Music (APM) 
+legend07 - Ren & Stimpy Production Music (APM)
+legend08 - L.A. Noire
+legend09 - L.A. Noire
+legend10 - Gazillionaire Deluxe
+legend11 - Phoenix Wright: Ace Attorney
+legend12 - Super Meat Boy (unused track)
+legend13 - Bill Wurtz
+legend14 - Tread Marks
+legend15 - Final Fantasy IV
+legend16 - Wetrix
+legend17 - I.Q Final
+legend18 - Metal Gear Solid
+legend19 - Earthbound
+legend20 - Oni
+legend21 - Bill Wurtz
+legend22 - DX-Ball
+legend23 - Return Fire
+legend24 - Return to Castle Wolfenstein
+
 \sounds\inventory\MasterAssemblies\
 MASASS01 - Michael Jackson's Moonwalker (Arcade)
 MASASS02 - Wally wo Sagase! (Arcade)

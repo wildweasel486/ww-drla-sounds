@@ -294,6 +294,59 @@ plats/platstop lift2stp
 plats/floormove lift1lp
 plats/floorstop lift1st
 
+// LegenDoom specific stuff
+
+$random effects/legendaryenemy {
+legend01
+legend02
+legend03
+legend04
+legend05
+legend06
+legend07
+legend08
+legend09
+legend10
+legend11
+legend12
+legend13
+legend14
+legend15
+legend16
+legend17
+legend18
+legend19
+legend20
+legend21
+legend22
+legend23
+legend24
+}
+legend01 legend01
+legend02 legend02
+legend03 legend03
+legend04 legend04
+legend05 legend05
+legend06 legend06
+legend07 legend07
+legend08 legend08
+legend09 legend09
+legend10 legend10
+legend11 legend11
+legend12 legend12
+legend13 legend13
+legend14 legend14
+legend15 legend15
+legend16 legend16
+legend17 legend17
+legend18 legend18
+legend19 legend19
+legend20 legend20
+legend21 legend21
+legend22 legend22
+legend23 legend23
+legend24 legend24
+
 // DoomRPG specific stuff
 
 $random misc/levelup { ww/levelup1 ww/levelup2 ww/levelup3 ww/levelup4 ww/levelup5 ww/levelup6 ww/levelup7 ww/levelup8 ww/levelup9 ww/levelup10 }
