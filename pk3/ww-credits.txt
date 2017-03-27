@@ -142,6 +142,7 @@ legend21 - Bill Wurtz
 legend22 - DX-Ball
 legend23 - Return Fire
 legend24 - Return to Castle Wolfenstein
+legend25 - Eversion
 
 \sounds\inventory\MasterAssemblies\
 MASASS01 - Michael Jackson's Moonwalker (Arcade)

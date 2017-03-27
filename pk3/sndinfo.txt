@@ -321,6 +321,7 @@ legend21
 legend22
 legend23
 legend24
+legend25
 }
 legend01 legend01
 legend02 legend02
@@ -346,6 +347,7 @@ legend21 legend21
 legend22 legend22
 legend23 legend23
 legend24 legend24
+legend25 legend25
 
 // DoomRPG specific stuff
 
