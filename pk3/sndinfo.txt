@@ -521,5 +521,5 @@ ww/masass16 masass16
 ww/masass17 masass17
 ww/masass18 masass18
 
-$alias stranges/xpranka weapons/masterassemblyfanfare
+stranges/xpranka xprankA
 $alias stranges/xprankb weapons/masterassemblyfanfare
