@@ -344,3 +344,5 @@ hmkrifot - ?
 Mrkrifht - Freesound.org courtesy of Yzhamua and NoiseCollector.
 Mrkrifin - Freesound.org courtesy of Yzhamua and NoiseCollector.
 Mrkrifot - Freesound.org courtesy of Yzhamua and NoiseCollector.
+\scopedrifle\
+DSASSR* - Deus Ex (modified)
