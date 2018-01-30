@@ -13,7 +13,7 @@ $playersound	Scout	male	*land		dsscland
 $playersound	Scout	male	*jump		SCJUMP
 $playersound	Scout	male	*fist		DSPUNCH
 $playersound	Scout	male	*usefail	rfnoway
-$playersound	Scout	male	*falling	SCFALLIN
+$playersound	Scout	male	*falling	DMFALLIN
 
 //MARINE
 $random drlamarine/dielo { drlamarine/dielo1 drlamarine/dielo2 drlamarine/dielo3 drlamarine/dielo4 }
@@ -49,22 +49,32 @@ $playersound	Marine	male	*land		mrland
 $playersound	Marine	male	*jump		mrjump
 $playersound	Marine	male	*fist		DSPUNCH
 $playersound	Marine	male	*usefail	rfnoway
-$playersound	Marine	male	*falling	TCFALLIN
+$playersound	Marine	male	*falling	DMFALLIN
 
 //TECHNICIAN
-$playersound	Technician	male	*death		TCDEATH
-$playersound	Technician	male	*xdeath		TCDIEHI
+$playeralias	Technician	male	*death		TCDEATH
+$playeralias	Technician	male	*xdeath		TCDIEHI
+$random TCDEATH { tcdeath1 tcdeath2 }
+$random TCDIEHI { tcdiehi1 tcdiehi2 }
+tcdeath1 tcdeath1
+tcdeath2 tcdeath2
+tcdiehi1 tcdiehi1
+tcdiehi2 tcdiehi2
 $playersound	Technician	male	*gibbed		DSSLOP
-$playersound	Technician	male	*pain100	TCPWEAK
+$playeralias	Technician	male	*pain100	TCPAIN
+$random TCPAIN { tcpain1 tcpain2 tcpain3 }
+tcpain1 tcpain1
+tcpain2 tcpain2
+tcpain3 tcpain3
 $playersounddup	Technician	male	*pain75		*pain100
-$playersound	Technician	male	*pain50		TCPHARD
-$playersounddup	Technician	male	*pain25		*pain50
+$playersounddup	Technician	male	*pain50		*pain100
+$playersounddup	Technician	male	*pain25		*pain100
 $playersound	Technician	male	*grunt		TCNOWAY
 $playersound	Technician	male	*land		TCOOF
 $playersound	Technician	male	*jump		TCJUMP
 $playersound	Technician	male	*fist		DSPUNCH
 $playersound	Technician	male	*usefail	rfnoway
-$playersound	Technician	male	*falling	TCFALLIN
+$playersound	Technician	male	*falling	DMFALLIN
 
 //RENEGADE
 $playersound	Renegade	male	*death		DSRENDTH
@@ -79,7 +89,7 @@ $playersound	Renegade	male	*land		DSRNLAND
 $playersound	Renegade	male	*jump		DSRNJUMP
 $playersound	Renegade	male	*fist		DSPUNCH
 $playersound	Renegade	male	*usefail	rfnoway
-$playersound	Renegade	male	*falling	TCFALLIN
+$playersound	Renegade	male	*falling	DMFALLIN
 
 //DEMOLITIONIST
 $playersound	Demolitionist	male	*death		dmdeath

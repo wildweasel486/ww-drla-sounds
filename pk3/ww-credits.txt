@@ -144,6 +144,17 @@ legend23 - Return Fire
 legend24 - Return to Castle Wolfenstein
 legend25 - Eversion
 
+\sounds\players\
+DMFALLIN - ??? (pretty generic though)
+RFNOWAY - Red Faction
+\demoman\ - Albert Wesker from Resident Evil 4 (VA: Richard Waugh)
+\marine\ - Player sounds from QTEST (VA: ???)
+\renegade\
+DSRNJUMP - Deus Ex (was curiously missing from DRLA itself)
+DSRNLAND - Soldier of Fortune 2
+\scout\ - Star Trek Voyager: Elite Force? (can't remember)
+\technician\ - Crimsonland
+
 \sounds\inventory\MasterAssemblies\
 MASASS01 - Michael Jackson's Moonwalker (Arcade)
 MASASS02 - Wally wo Sagase! (Arcade)
