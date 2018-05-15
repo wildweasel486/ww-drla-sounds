@@ -537,3 +537,35 @@ ww/masass18 masass18
 
 stranges/xpranka xprankA
 $alias stranges/xprankb weapons/masterassemblyfanfare
+
+// Legendoom weapon redefinitions
+
+// the pistols
+pistol/fire									DSPISTOL
+pistol/pickup								DSGLKOUT
+pistol/draw									DSGLKCK
+pistol/commonfire							DSCOMPIS
+pistol/uncommonfire							DSGCBFIR
+pistol/rarefire								DSHPMKPS
+pistol/epicfire								DSHPPIST
+
+// the shotguns
+shotgun/fire								DSSHOT1
+shotgun/pump								DSSHOTP2
+shotgun/pickup								DSTACOUT
+shotgun/draw							    DSFOCOPN
+
+shotgun/commonfire							DSDSHTGS
+shotgun/commonpump							SHOTPUMP
+shotgun/uncommonfire						DSCHSHOT
+shotgun/uncommonpump						DSAUTOL2
+shotgun/rarefire                            BA5FIRE
+shotgun/rarepump							LDRBACK
+$random shotgun/epicfire { ldrsht1 ldrsht2 ldrsht3 ldrsht4 }
+ldrsht1 ldrsht1
+ldrsht2 ldrsht2
+ldrsht3 ldrsht3
+ldrsht4 ldrsht4
+shotgun/epicpump							Y4SHOTLD
+
+shotgun/rapidpump							LDRBACK
