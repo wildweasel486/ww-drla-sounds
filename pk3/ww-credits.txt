@@ -326,6 +326,11 @@ hshotf* - Borderlands.
 shotpump - Medal of Honor: Pacific Assault.
 \jackhammer\
 jackfi* - ? (sourced from ww-cash2.pk3)
+\legendoom\
+ba5fire.ogg - Grand Theft Auto IV (mix used in ww-nazis-v2)
+LDRBACK.ogg - Combination of sounds from a Twitter video by @Scarlet_Yusuri, and Sonniss GDC 2016 - Pole Position Production - Saiga-12 12g solid slug.
+LDRSHT*.ogg - Saints Row 2, Outlaws, and Sonniss GDC 2017 - Gamemaster Audio - Bullet Impact Sounds.
+y4shotld.wav - Yakuza 4.
 \quadshotgun\
 DSQUAD4X - Action UT.
 DSQUADSH - Action UT.
