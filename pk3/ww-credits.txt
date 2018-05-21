@@ -288,6 +288,8 @@ dshpbrck - Freesound.org?
 dshpuacr - Killing Floor.
 \HighpowerChaingun\
 dshpchai - Blood II: The Chosen.
+\Legendoom\
+ldmachi* - FEAR
 \RCP90\
 dsrcp9* - Stock sound libraries (GoldenEye).
 dsrcp120 - Stock sound libraries (GoldenEye and Perfect Dark).

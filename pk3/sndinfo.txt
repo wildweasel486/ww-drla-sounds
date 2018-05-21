@@ -549,6 +549,10 @@ pistol/uncommonfire							DSGCBFIR
 pistol/rarefire								DSHPMKPS
 pistol/epicfire								DSHPPIST
 
+effects/advancedreloadout					HPMKPSOT
+effects/advancedreloadin					HPMKPSIN
+effects/advancedreloadcock					HPMKPSCK
+
 // the shotguns
 shotgun/fire								DSSHOT1
 shotgun/pump								DSSHOTP2
@@ -569,3 +573,33 @@ ldrsht4 ldrsht4
 shotgun/epicpump							Y4SHOTLD
 
 shotgun/rapidpump							LDRBACK
+
+// the super shotguns
+
+supershotgun/pickup							DHVSOPEN
+supershotgun/draw					        DHVSCLS
+
+supershotgun/commonfire						DHVSFIRE
+supershotgun/commonopen			            DSFOCOPN
+supershotgun/commonload			            DSFOCLOD
+supershotgun/commonclose			        DSFOCCLS
+supershotgun/uncommonfire					DSFOCDSH
+supershotgun/uncommonopen				        DHVSOPEN
+supershotgun/uncommonload				        DHVSLOAD
+supershotgun/uncommonclose				    DHVSCLS
+$alias supershotgun/rarefire				weapons/heavyshotgun
+supershotgun/rareopen						LDRBACK
+$alias supershotgun/rareload			    weapons/shellload
+supershotgun/rareclose						DSDRMOUT
+supershotgun/epicfire						DSQUAD4X
+supershotgun/epicopen				        DSQSHOTO
+supershotgun/epicload				        DSQSHOTL
+supershotgun/epicclose				        DSQSHOTC
+
+// the chainguns
+
+chaingun/fire                               DSCHAIN1
+chaingun/commonfire                         DSHPCHAI
+chaingun/uncommonfire						DSHPVANR
+chaingun/rarefire                           DMBATRIF
+chaingun/epicfire                           DMCHGUN
