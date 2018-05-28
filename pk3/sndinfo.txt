@@ -603,3 +603,75 @@ chaingun/commonfire                         DSHPCHAI
 chaingun/uncommonfire						DSHPVANR
 chaingun/rarefire                           DMBATRIF
 chaingun/epicfire                           DMCHGUN
+
+// New enemy sounds!
+
+$random chainguy/sight { hybsit1 hybsit2 hybsit3 hybsit4 hybsit5 }
+$random chainguy/pain { hybpain1 hybpain2 hybpain3 hybpain4 hybpain5 }
+$random chainguy/death { hybdth1 hybdth2 hybdth3 hybdth4 hybdth5 hybdth6 hybdth7 hybdth8 }
+hybsit1 hybsit1
+hybsit2 hybsit2
+hybsit3 hybsit3
+hybsit4 hybsit4
+hybsit5 hybsit5
+hybpain1 hybpain1
+hybpain2 hybpain2
+hybpain3 hybpain3
+hybpain4 hybpain4
+hybpain5 hybpain5
+hybdth1 hybdth1
+hybdth2 hybdth2
+hybdth3 hybdth3
+hybdth4 hybdth4
+hybdth5 hybdth5
+hybdth6 hybdth6
+hybdth7 hybdth7
+hybdth8 hybdth8
+
+$random grunt/sight { zm2sit1 zm2sit2 zm2sit3 zm2sit4 zm2sit5 zm2sit6 }
+$alias grunt/active grunt/sight
+$random grunt/pain { zm2pain1 zm2pain2 zm2pain3 }
+$random grunt/death { zm2deth1 zm2deth2 zm2deth3 zm2deth4 }
+zm2sit1 zm2sit1
+zm2sit2 zm2sit2
+zm2sit3 zm2sit3
+zm2sit4 zm2sit4
+zm2sit5 zm2sit5
+zm2pain1 zm2pain1
+zm2pain2 zm2pain2
+zm2pain3 zm2pain3
+zm2deth1 zm2deth1
+zm2deth2 zm2deth2
+zm2deth3 zm2deth3
+zm2deth4 zm2deth4
+
+$random shotguy/sight { zm3sit1 zm3sit2 zm3sit3 zm3sit4 zm3sit5 }
+$alias shotguy/active shotguy/sight
+$random shotguy/pain { zm3pain1 zm3pain2 zm3pain3 }
+$random shotguy/death { zm3deth1 zm3deth2 zm3deth3 zm3deth4 }
+zm3sit1 zm3sit1
+zm3sit2 zm3sit2
+zm3sit3 zm3sit3
+zm3sit4 zm3sit4
+zm3sit5 zm3sit5
+zm3pain1 zm3pain1
+zm3pain2 zm3pain2
+zm3pain3 zm3pain3
+zm3deth1 zm3deth1
+zm3deth2 zm3deth2
+zm3deth3 zm3deth3
+zm3deth4 zm3deth4
+
+$random imp/pain { imppain1 imppain2 imppain3 imppain4 }
+$random imp/death { impdeth1 impdeth2 impdeth3 impdeth4 impdeth5 impdeth6 impdeth7 }
+imppain1 imppain1
+imppain2 imppain2
+imppain3 imppain3
+imppain4 imppain4
+impdeth1 impdeth1
+impdeth2 impdeth2
+impdeth3 impdeth3
+impdeth4 impdeth4
+impdeth5 impdeth5
+impdeth6 impdeth6
+impdeth7 impdeth7
