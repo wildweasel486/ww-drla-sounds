@@ -117,6 +117,15 @@ Copy-pasted from ww-mixed3.txt:
 41 - Die Hard Trilogy
 42 - Soldier of Fortune 2
 
+\sounds\enemies\
+\imps\
+impdeth*, imppain* - Sound Ideas Series 1000/Per Kristian
+\zombie1\* - System Shock 2
+\zombie2\
+zm2deth* - Crimsonland
+zm2pain*, zm2sit* - Resident Evil
+\zombie3\* - House of the Dead 2
+
 \sounds\Legendoom\
 legend01 - Super Mario RPG: Legend of the Seven Stars
 legend02 - Marvel Super Heroes VS Street Fighter
