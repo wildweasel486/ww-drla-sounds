@@ -675,3 +675,20 @@ impdeth4 impdeth4
 impdeth5 impdeth5
 impdeth6 impdeth6
 impdeth7 impdeth7
+
+$random skeleton/sight { revsit1 revsit2 }
+revsit1 revsit1
+revsit2 revsit2
+$random skeleton/pain { revpain1 revpain2 revpain3 revpain4 }
+revpain1 revpain1
+revpain2 revpain2
+revpain3 revpain3
+revpain4 revpain4
+$random skeleton/death { revdeth1 revdeth2 revdeth3 }
+revdeth1 revdeth1
+revdeth2 revdeth2
+revdeth3 revdeth3
+$random skeleton/active { revact1 revact2 }
+revact1 revact1
+revact2 revact2
+skeleton/swing revmelee 
