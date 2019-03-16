@@ -692,3 +692,7 @@ $random skeleton/active { revact1 revact2 }
 revact1 revact1
 revact2 revact2
 skeleton/swing revmelee 
+
+// Menu sounds
+menu/choose menuslct
+menu/change menumove

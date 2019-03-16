@@ -195,6 +195,9 @@ DSGRENBO - Quake (modified).
 \SmallExplosion\
 DSPIPEX2/3/4 - Crimsonland.
 
+\sounds\menu\
+MENU* - From "UI Buttons and Whooshes Pack 1" by http://www.narfstuff.co.uk
+
 \sounds\movers\
 door1* - System Shock 2.
 DSSL1* - Real Myst.
