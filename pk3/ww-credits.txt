@@ -336,6 +336,9 @@ dsdbload - Crimsonland.
 dsdbopn - Crimsonland.
 dsdshtgn - Half-Life 2.
 dsdshtgs - Half-Life 2.
+\elephantgun\
+elepfir* - Saints Row 2, Outlaws, and Sonniss GDC 2017 - Gamemaster Audio - Bullet Impact Sounds.
+elepload - Combination of sounds from a Twitter video by @Scarlet_Yusuri, ZPC (modified), and Sonniss GDC 2016 - Pole Position Production - Saiga-12 12g solid slug.
 \heavyshotgun\
 hshotf* - Borderlands.
 shotpump - Medal of Honor: Pacific Assault.

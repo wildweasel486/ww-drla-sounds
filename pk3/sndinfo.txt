@@ -153,6 +153,13 @@ weapons/hpmarksmanpistolcock	HPMKPSCK
 weapons/hpmarksmanpistolunload	HPMKPSOT
 weapons/hpmarksmanpistolload	HPMKPSIN
 
+$random weapons/elephantgun { elephantgun1 elephantgun2 elephantgun3 elephantgun4 }
+elephantgun1 elepfir1
+elephantgun2 elepfir2
+elephantgun3 elepfir3
+elephantgun4 elepfir4
+weapons/elephantgunload elepload
+
 weapons/plasmashotgun				dspshtgn
 $alias weapons/nanoplasmashotgun    weapons/plasmashotgun
 
