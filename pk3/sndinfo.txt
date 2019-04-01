@@ -703,3 +703,70 @@ skeleton/swing revmelee
 // Menu sounds
 menu/choose menuslct
 menu/change menumove
+
+// Startup randomizer - intended to replace DRLA's but probably affects everything.
+$random misc/startupdone { misc/levelup mission/complete mission/get weapons/masterassemblyfanfare }
+
+// Death music randomizer for Kinsie's FKNRIP addon.
+$random death/music { death/music01 death/music02 death/music03 death/music04 death/music05 death/music06 death/music07 death/music08 death/music09 death/music10 death/music11 death/music12 death/music13 death/music14 death/music15 death/music16 death/music17 death/music18 death/music19 death/music20 death/music21 death/music22 death/music23 death/music24 death/music25 death/music26 death/music27 death/music28 death/music29 death/music30 death/music31 death/music32 death/music33 death/music34 death/music35 death/music36 death/music37 death/music38 death/music39 death/music40 death/music41 death/music42 death/music43 death/music44 death/music45 death/music46 death/music47 death/music48 death/music49 death/music50 death/music51 death/music52 death/music53 death/music54 death/music55 death/music56 death/music57 death/music58 death/music59 death/music60 death/music61 death/music62 death/music63 death/music64 death/music65 death/music66 death/music67 death/music68 death/music69 death/music70 death/music71 death/music72 death/music73 death/music74 death/music75 death/music76 death/music77 death/music78 }
+death/music18 m_dead18
+death/music19 m_dead19
+death/music20 m_dead20
+death/music21 m_dead21
+death/music22 m_dead22
+death/music23 m_dead23
+death/music24 m_dead24
+death/music25 m_dead25
+death/music26 m_dead26
+death/music27 m_dead27
+death/music28 m_dead28
+death/music29 m_dead29
+death/music30 m_dead30
+death/music31 m_dead31
+death/music32 m_dead32
+death/music33 m_dead33
+death/music34 m_dead34
+death/music35 m_dead35
+death/music36 m_dead36
+death/music37 m_dead37
+death/music38 m_dead38
+death/music39 m_dead39
+death/music40 m_dead40
+death/music41 m_dead41
+death/music42 m_dead42
+death/music43 m_dead43
+death/music44 m_dead44
+death/music45 m_dead45
+death/music46 m_dead46
+death/music47 m_dead47
+death/music48 m_dead48
+death/music49 m_dead49
+death/music50 m_dead50
+death/music51 m_dead51
+death/music52 m_dead52
+death/music53 m_dead53
+death/music54 m_dead54
+death/music55 m_dead55
+death/music56 m_dead56
+death/music57 m_dead57
+death/music58 m_dead58
+death/music59 m_dead59
+death/music60 m_dead60
+death/music61 m_dead61
+death/music62 m_dead62
+death/music63 m_dead63
+death/music64 m_dead64
+death/music65 m_dead65
+death/music66 m_dead66
+death/music67 m_dead67
+death/music68 m_dead68
+death/music69 m_dead69
+death/music70 m_dead70
+death/music71 m_dead71
+death/music72 m_dead72
+death/music73 m_dead73
+death/music74 m_dead74
+death/music75 m_dead75
+death/music76 m_dead76
+death/music77 m_dead77
+death/music78 m_dead78

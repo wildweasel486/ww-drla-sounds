@@ -380,3 +380,66 @@ Mrkrifin - Freesound.org courtesy of Yzhamua and NoiseCollector.
 Mrkrifot - Freesound.org courtesy of Yzhamua and NoiseCollector.
 \scopedrifle\
 DSASSR* - Deus Ex (modified)
+
+\sounds\fknrip\
+m_dead18.mp3 - Jeroen Tel - [8BitStereo - Alien 3 #12] Time Up / Game Over
+m_dead19.mp3 - Jeroen Tel - [8BitStereo - Technocop #06] Game Over
+m_dead20.mp3 - Geoff Follin - [8BitStereo - The Incredible Crash Dummies #08] Unknown Theme 1
+m_dead21.mp3 - Shusaku Uchiyama & Misao Senbongi - [biohazard 4 CD1 #15] Game Over
+m_dead22.mp3 - Jun Chiki Chikuma - [Bomberman Hero OST #18] Ooze
+m_dead23.mp3 - Pinch Punch - [Cadash & Cameltry #25] Cadash ~ Game Over
+m_dead24.mp3 - Michiru Yamane - [Castlevania: Bloodlines #13] After the Good Fight (Game Over)
+m_dead25.mp3 - Jonathan Geer - [Cook, Serve, Delicious! (Original Soundtrack) CD1 #39] Failure 2
+m_dead26.mp3 - Digital Juice - BackTraxx - [Cool Stuff I #57] Comedic Trumpet 6  :05
+m_dead27.mp3 - Hisayoshi Ogura and Shuji Nakamura - [Darius #25] OVER
+m_dead28.mp3 - Hisayoshi Ogura - [DARIUS GAIDEN #15] over
+m_dead29.ogg - Unknown - [Dig It! - DOS #22] Died
+m_dead30.mp3 - Koichi Sugiyama - [Dragon Quest Symphonic Suite I - IX Disc 10 CD10 #14] Death I
+m_dead31.mp3 - Matt Seldon - [Dreamweb #06] Bad Guitar
+m_dead32.mp3 - Hideki Takahagi - [Exit #18] Gameover
+m_dead33.mp3 - Loudness - [Fuzzy's World of Miniature Space Golf #13] Game Over
+m_dead34.mp3 - Ryan Ike - [Gunpoint - The Soundtrack CD1 #06] R.I.P.I.  (Unused)
+m_dead35.mp3 - Paul Romero, Rob King, Steve Baca - [Heroes of Might and Magic III soundtrack #04] Battle Defeat
+m_dead36.mp3 - Paul Romero, Rob King, Steve Baca - [Heroes of Might and Magic III soundtrack #05] Battle Retreat
+m_dead37.mp3 - Paul Romero, Rob King, Steve Baca - [Heroes of Might and Magic III soundtrack #06] Battle Surrender
+m_dead38.mp3 - Hideki Naganuma - [Jet Set Radio Original Sound Tracks #18] Jet Set Groove #2
+m_dead39.mp3 - Andrew Hale - [L.A. Noire (Unreleased Tracks)] Case Failed
+m_dead40.ogg - Junko Tamiya - [Little Nemo: The Dream Master - NES #18] Game Over
+m_dead41.mp3 - KCE Japan Sound Team - [Metal Gear - Famicom [Fan Soundtrack] CD1 #10] Game Over
+m_dead42.mp3 - Konami Kukeiha Club - [Metal Gear 2: Solid Snake [Original Soundtrack] CD1 #36] Afterimage
+m_dead43.mp3 - Konami Kukeiha Club - [Metal Gear 2: Solid Snake [Original Soundtrack] CD1 #37] Disposable Life
+m_dead44.Mp3 - Yuji Takenouchi & Junya Nakano - [Mystic Warriors Arcade OST #05] History Repeats Itself(Game Over)
+m_dead45.mp3 - ? - [Neo Turf Masters / Big Tournament Golf (Arranged CD)] Jingle ~ Bogey!
+m_dead46.mp3 - ? - [Neo Turf Masters / Big Tournament Golf (Arranged CD)] Game Over
+m_dead47.mp3 - Hirokazu Ando - [Nintendo All-Star! Dairantou Smash Brothers Original Soundtrack (Disc 1) #25] Game Over
+m_dead48.mp3 - Konami Kukeiha Club - [Original Sound of Snatcher CD1 #25] Axia (Fanfare)
+m_dead49.mp3 - Yoshito Hirano, Yuka Tsujiyoko - [Paper Mario: The Thousand Year Door #101] Enemy Surprise!
+m_dead50.mp3 - Francis Mechner - [Prince of Persia (Roland MT-32) #02] Extra Music - Accident
+m_dead51.mp3 - Sammy Burdson - [Ren & Stimpy Production Music Vol. 2 #166] Raspberry (a)
+m_dead52.mp3 - Dick Walter - [Ren & Stimpy Production Music Vol. 2 #193] Comic Ending (h)
+m_dead53.ogg - Soyo Oka - [SIM City - SNES #17] You're Fired!
+m_dead54.mp3 - Xoc - [SMW #27] Death Jingle
+m_dead55.mp3 - Xoc - [SMW #28] Game Over
+m_dead56.mp3 - bill wurtz
+m_dead57.mp3 - bill wurtz
+m_dead58.mp3 - Ken Allen - [Space Quest I - Roger Wilco in the Sarien Encounter #06] Oops! Wrong Button (Death Sequence)
+m_dead59.mp3 - Hajime Hirasawa - [Star Fox #28] Player down (Orchestra version)
+m_dead60.mp3 - [Super Mario Maker (game rip)]
+m_dead61.mp3 - Akifumi Tada - [THE BAKU BOM!!! Baku Bomberman Original Soundtrack #31] DRAW
+m_dead62.mp3 - Xoc - [The Beginning of the End #20] Blaster Master (Game Over) featuring Vegeroth
+m_dead63.mp3 - Xoc - [The Beginning of the End #27] Castlevania Adventure (Game Over)
+m_dead64.mp3 - Xoc - [The Beginning of the End #32] Commando (Game Over)
+m_dead65.mp3 - Xoc - [The Beginning of the End #49] GoldenEye 007 (Death Jingle)
+m_dead66.mp3 - Xoc - [The Beginning of the End #53] Hard Drivin' (Instant Replay)
+m_dead67.mp3 - Xoc - [The Beginning of the End #62] Karnov (Death Jingle)
+m_dead68.mp3 - Xoc - [The Beginning of the End #89] T & C Surf Designs (Game Over)
+m_dead69.mp3 - Xoc - [The Beginning of the End #112] Banjo-Kazooie (Death Jingle)
+m_dead70.mp3 - Xoc - [The Beginning of the End #117] Ninja Gaiden (Death Jingle)
+m_dead71.mp3 - Haruyoshi Tomita - [The House Of The Dead 2 #06] Game Over
+m_dead72.mp3 - Manaka Kataoka, Yasuaki Iwata - [The Legend of Zelda: Breath of The Wild Expanded Soundtrack CD1 #71] Game Over
+m_dead73.mp3 - Chris Hülsbeck - [Tunnel B1 Soundtrack #07] Mission failed
+m_dead74.mp3 - Chris Hülsbeck - [Tunnel B1 Soundtrack #16] Game over
+m_dead75.mp3 - Mark Klem - [Wacky Wheels: Original Soundtrack CD1 #16] Game Over
+m_dead76.ogg - Norio Hanzawa, Minako Hamano - [Wario World] Over
+m_dead77.mp3 - Bill Brown - [Wolfenstein (2009) #71] Game Stinger Failure
+m_dead78.mp3 - Yuzo Koshiro - [Yuzo Koshiro Best Collection vol. 2 (Disc 1 ~ The Super Shinobi -PC-8801 Version-) CD1 #18] FAILURE
