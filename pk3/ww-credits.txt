@@ -359,6 +359,9 @@ DSQSHOTC - Doom 3 and Goldeneye.
 dsshot1 - Half-Life 2.
 dsshotgn - From one of Half-Life 2's grenade explosions and a stock sound effect. I intended to recreate the shotgun sound from STRAIN.wad in higher quality.
 dsshotp2 - Stock sound effect (Goldeneye reload), slightly faster.
+\supershotgun\
+DSKSSFIR - Stock sound effect (Terminator 2 shotgun).
+DSSHSHOT - Above, plus audio from WeberMarkin on Youtube (https://youtu.be/bpq1LtAsZZs)
 \tacticalshotgun\
 dstacin - Killing Floor, AA12 reload.
 dstacout - ""
