@@ -522,6 +522,13 @@ ww/missget19 misget19
 ww/missget20 misget20
 ww/missget21 misget21
 
+// selecting a Corruption Card should play a mission-get sound too
+$alias corruptioncards/select mission/get
+$alias corruptioncards/permaselect mission/get
+$alias corruptioncards/mysteryselect mission/get
+// and I think the "high tier mystery" ones should play Legendary sounds too
+$alias corruptioncards/mysteryhightier effects/legendaryenemy
+
 $random weapons/masterassemblyfanfare { ww/masass01 ww/masass02 ww/masass03 ww/masass04 ww/masass05 ww/masass06 ww/masass07 ww/masass08 ww/masass09 ww/masass10 ww/masass11 ww/masass12 ww/masass13 ww/masass14 ww/masass15 ww/masass16 ww/masass17 ww/masass18 ww/missioncomplete1 ww/missioncomplete2 ww/missioncomplete3 ww/missioncomplete4 ww/missioncomplete5 ww/missioncomplete6 ww/missioncomplete7 ww/missioncomplete8 ww/missioncomplete9 ww/missioncomplete10 ww/missioncomplete11 ww/missioncomplete12 ww/missioncomplete13 ww/missioncomplete14 ww/missioncomplete15 ww/missioncomplete16 ww/missioncomplete17 ww/missioncomplete18 ww/missioncomplete19 ww/missioncomplete20 ww/missioncomplete21 }
 ww/masass01 masass01
 ww/masass02 masass02
