@@ -615,8 +615,8 @@ supershotgun/epicclose				        DSQSHOTC
 chaingun/fire                               DSCHAIN1
 chaingun/commonfire                         DSHPCHAI
 chaingun/uncommonfire						DSHPVANR
-chaingun/rarefire                           DMBATRIF
-chaingun/epicfire                           DMCHGUN
+chaingun/rarefire                           DSMRKRFI
+chaingun/epicfire                           DSHPMRKR
 
 // New enemy sounds!
 
