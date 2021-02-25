@@ -577,6 +577,7 @@ shotgun/commonfire							DSDSHTGS
 shotgun/commonpump							SHOTPUMP
 shotgun/uncommonfire						DSCHSHOT
 shotgun/uncommonpump						DSAUTOL2
+$pitchset shotgun/uncommonpump 1.3
 shotgun/rarefire                            BA5FIRE
 shotgun/rarepump							LDRBACK
 $random shotgun/epicfire { ldrsht1 ldrsht2 ldrsht3 ldrsht4 }
