@@ -605,6 +605,7 @@ $alias supershotgun/rarefire				weapons/heavyshotgun
 supershotgun/rareopen						LDRBACK
 $alias supershotgun/rareload			    weapons/shellload
 supershotgun/rareclose						DSDRMOUT
+$pitchset supershotgun/rareclose 1.5
 supershotgun/epicfire						DSQUAD4X
 supershotgun/epicopen				        DSQSHOTO
 supershotgun/epicload				        DSQSHOTL
