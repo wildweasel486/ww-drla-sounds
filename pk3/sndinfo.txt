@@ -299,17 +299,28 @@ $volume steps/techstep 0.25
 //Things I added
 $limit weapons/highpowerplasma 0
 
+// New switches!
+
+switches/skull sounds/switches/skulswtc.wav
+switches/satyr sounds/switches/satyswtc.wav
+switches/gargoyle sounds/switches/gargswtc.ogg
+switches/lion sounds/switches/lionswtc.wav
+switches/eyeball sounds/switches/eyebswtc.wav
+switches/tech1 sounds/switches/techswt1.wav
+switches/tech2 sounds/switches/techswt2.wav
+switches/tech3 sounds/switches/techswt3.wav
+
 // SNDSEQ
-doors/dr1_start DSSL1BGN
-doors/dr1_mid DSSL1MID
-doors/dr1_stop DSSL1END
+doors/dr1_start MYST1ST
+//doors/dr1_mid DSSL1MID
+doors/dr1_stop MYST1END
 
-doors/openquick door1op
+doors/openquick sounds/movers/bdooropn.ogg
 doors/slamquick door1slm
-doors/closequick door1cl
+doors/closequick sounds/movers/bdoorcls.ogg
 
-plats/platstart lift1str
-plats/platmove lift2mv
+//plats/platstart lift1str
+plats/platmove lift2mlt
 plats/platstop lift2stp
 
 plats/floormove lift1lp
