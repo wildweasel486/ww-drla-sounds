@@ -201,9 +201,11 @@ MENU* - From "UI Buttons and Whooshes Pack 1" by http://www.narfstuff.co.uk
 \sounds\movers\
 door1* - System Shock 2.
 DSSL1* - Real Myst.
+MYST1* - Real Myst.
 DSSWTCHN - ?
 DSSWTCHX - ?
-lift1* - Half-Life 2.
+lift1* - Real Myst.
+oldlift1* - Half-Life 2.
 lift2* - Dark Forces 2: Jedi Knight.
 
 \sounds\pistols\
@@ -383,6 +385,16 @@ Mrkrifin - Freesound.org courtesy of Yzhamua and NoiseCollector.
 Mrkrifot - Freesound.org courtesy of Yzhamua and NoiseCollector.
 \scopedrifle\
 DSASSR* - Deus Ex (modified)
+
+\sounds\switches
+eyebswtc - Metal Gear Solid 3 (mix).
+gargswtc - Resident Evil 4 (mix).
+lionswtc - Resident Evil 4.
+satyswtc - Deus Ex.
+skulswtc - Deus Ex.
+techswt1 - Hexen 2 (sped up).
+techswt2 - Real Myst.
+techswt3 - Real Myst.
 
 \sounds\fknrip\
 m_dead18.mp3 - Jeroen Tel - [8BitStereo - Alien 3 #12] Time Up / Game Over
