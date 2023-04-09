@@ -1,23 +1,23 @@
 :DoorOpenNormal
-	playuntildone	doors/dr1_start
-	playrepeat	doors/dr1_mid
+	play	doors/dr1_start
+	//playrepeat	doors/dr1_mid
 	stopsound	doors/dr1_stop
 end
 
 :DoorCloseNormal
-	playuntildone	doors/dr1_start
-	playrepeat	doors/dr1_mid
+	play	doors/dr1_start
+	//playrepeat	doors/dr1_mid
 	stopsound	doors/dr1_stop
 end	
 
 :DoorOpenBlazing
 	play		doors/openquick
-	stopsound	doors/slamquick
+	nostopcutoff
 end
 
 :DoorCloseBlazing
-	play		doors/closequick
-	stopsound	doors/slamquick
+	play	doors/closequick
+	nostopcutoff
 end	
 
 :Floor
@@ -26,7 +26,6 @@ end
 end
 
 :Platform
-    playuntildone plats/platstart
 	playrepeat	plats/platmove
 	stopsound	plats/platstop
 end
