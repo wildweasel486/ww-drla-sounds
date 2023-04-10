@@ -207,6 +207,7 @@ DSSWTCHX - ?
 lift1* - Real Myst.
 oldlift1* - Half-Life 2.
 lift2* - Dark Forces 2: Jedi Knight.
+ceiling - Dark Forces 2: Jedi Knight.
 
 \sounds\pistols\
 \combatpistol\
