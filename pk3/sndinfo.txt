@@ -326,6 +326,8 @@ plats/platstop lift2stp
 plats/floormove lift1lp
 plats/floorstop lift1st
 
+plats/ceilingloop sounds/movers/ceiling.wav
+
 // LegenDoom specific stuff
 
 $random effects/legendaryenemy {

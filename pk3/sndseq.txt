@@ -31,9 +31,9 @@ end
 end
 
 :CeilingNormal
-	playrepeat	plats/slowmove
+	playrepeat	plats/floormove
 end
 
 :CeilingSemiSilent
-	stopsound	plats/slowstop
+	playrepeat	plats/ceilingloop
 end
