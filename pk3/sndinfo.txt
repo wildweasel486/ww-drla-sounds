@@ -304,7 +304,7 @@ $limit weapons/highpowerplasma 0
 switches/skull sounds/switches/skulswtc.wav
 switches/satyr sounds/switches/satyswtc.wav
 switches/gargoyle sounds/switches/gargswtc.ogg
-switches/lion sounds/switches/lionswtc.wav
+switches/lion sounds/switches/lionswtc.ogg
 switches/eyeball sounds/switches/eyebswtc.wav
 switches/tech1 sounds/switches/techswt1.wav
 switches/tech2 sounds/switches/techswt2.wav
