@@ -726,6 +726,23 @@ skeleton/swing revmelee
 menu/choose menuslct
 menu/change menumove
 
+// Dwelling Sin support
+weapons/dry DSRCP12U
+weapons/magout HPMKPSOT
+weapons/magin HPMKPSIN
+weapons/ready HPMKPSCK
+weapons/spistol DSSILENC
+$volume weapons/spistol 1.0
+weapons/smg DSHPUZIF
+weapons/brifle DSVANRIF
+$alias weapons/shotgf shotgun/epicfire
+$alias weapons/sawdgun weapons/heavyshotgun
+
+menu/inv_activate menuslct
+menu/inv_backup menumove
+menu/inv_open menuslct
+menu/inv_close credget
+
 // Startup randomizer - intended to replace DRLA's but probably affects everything.
 $random misc/startupdone { misc/levelup mission/complete mission/get weapons/masterassemblyfanfare }
 
